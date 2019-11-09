@@ -6,10 +6,10 @@ author_profile: true
 ---
 <span style = "font-size: 80%;">
 
-<span style="color:blue">
-Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood.
+<span style="color:#52adc8">
+Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood.<br/>
 <span style="color:black">
-**Kulikovskikh I.M.**, Prokhorov, S.A. (2017). 
+**Kulikovskikh I.M.**, Prokhorov, S.A. (2017). <br/>
 <span style="color:gray">
 Procedia Engineering. 201: 779–788.<br/>
 [pdf](http://ilonakulikovskikh.github.io/files/prokhorov2017.pdf)
