@@ -1,16 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+## Publications
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+1. Prokhorov S.A., **Kulikovskikh I.M.** (2015) Unique condition for generalized  Laguerre functions to solve pole position problem. Signal Processing. 108: 25-29.
 
-{% include base_path %}
+1. Prokhorov S.A., **Kulikovskikh I.M.** (2016). Pole position problem for Meixner filters. Signal Processing. 120: 8-12.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. **Kulikovskikh I.M.**, Prokhorov, S.A. (2017). Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood. Procedia Engineering. 201: 779–788.
