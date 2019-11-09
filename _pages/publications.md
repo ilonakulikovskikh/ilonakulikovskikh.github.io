@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Publications
 
 1. Prokhorov S.A., **Kulikovskikh I.M.** (2015) Unique condition for generalized  Laguerre functions to solve pole position problem. Signal Processing. 108: 25-29.
 
