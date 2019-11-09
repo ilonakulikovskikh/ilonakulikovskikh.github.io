@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<p>
 <span style = "font-size: 80%;">
 
 **Kulikovskikh I.M.**, Prokhorov, S.A. (2017). Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood. Procedia Engineering. 201: 779–788.<br/>
@@ -17,4 +16,3 @@ Prokhorov S.A., **Kulikovskikh I.M.** (2015) Unique condition for generalized  L
 [pdf](http://ilonakulikovskikh.github.io/files/prokhorov2015.pdf)
 
 </span>
-</p>
