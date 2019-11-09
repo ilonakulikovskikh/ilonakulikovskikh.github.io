@@ -12,15 +12,23 @@ BioGD: Bio-inspired robust gradient descent.<br/>
 **Kulikovskikh I.**, Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br/>
 <span style="color:gray">
 PLoS ONE. 14(7): e0219004.<br/>
+[pdf](http://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf)
+
+<span style="color:#52adc8">
+An SGD-based meta-learner with "growing" descent.<br/>
+<span style="color:black">
+**Kulikovskikh I.**, Prokhorov S., Legović T., Šmuc T. (2019). <br/>
+<span style="color:gray">
+Journal of Physics: Conference Series. (accepted)<br/>
 [pdf](http://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)
 
 <span style="color:#52adc8">
-Cognitive validation maps for early occupancy detection in environmental sensing.<br/>
+Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br/>
 <span style="color:black">
-**Kulikovskikh I.M.** (2017). <br/>
+**Kulikovskikh I.M.**, Prokhorov S.A. (2018). <br/>
 <span style="color:gray">
-Engineering Applications of Artificial Intelligence. 65: 330-335.<br/>
-[pdf](http://ilonakulikovskikh.github.io/files/kulikovskikh2017_2.pdf)
+Journal of Physics: Conference Series. 1096(1): 012079<br/>
+[pdf](http://ilonakulikovskikh.github.io/files/kulikovskikh2018.pdf)
 
 <span style="color:#52adc8">
 Cognitive validation maps for early occupancy detection in environmental sensing.<br/>
