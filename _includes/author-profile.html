@@ -15,10 +15,10 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__position" style="font-size: 0.75em;">{{ author.position }}</h3>
     {% if author.cv %}
     <a href="{{ author.cv }}" style="font-size: 0.75em; text-decoration:none;";><i class="fas fa-paperclip" aria-hidden="true"></i>&nbsp CV</a>
     {% endif %}
+    <h3 class="author__position" style="font-size: 0.65em;">{{ author.position }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
