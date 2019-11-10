@@ -13,7 +13,7 @@ Machines in a classroom: Towards human-like active learning.<br/>
 <span style="color:gray">
 22nd International Conference on Discovery Science. Oct 28-30, 2019. Split, Croatia.<br/>
 [poster](http://ilonakulikovskikh.github.io/files/post_kulikovskikh2019_2.pdf) ---
-[abstract](http://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019_2.pdf)
+[abstract](http://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019_2.pdf) ---
 [talk](https://prezi.com/view/ivikvBr4IXjZAlXW4QoX/)
 
 <span style="color:#52adc8">
