@@ -38,7 +38,7 @@ Cognitive validation maps for early occupancy detection in environmental sensing
 Engineering Applications of Artificial Intelligence. 65: 330-335.<br/>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2017_2.pdf)]
 
-<span style="color:#52adc8; fontsize = 12pt">
+<span style="color:#52adc8; fontsize = 14pt;">
 Promoting collaborative learning through regulation of guessing in clickers.<br/>
 <span style="color:black">
 **Kulikovskikh I.M.**, Prokhorov S.A., Suchkova S.A. (2017). <br/>
