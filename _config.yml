@@ -76,8 +76,7 @@ author:
   name             : "Ilona Kulikovskikh "
   avatar           : "bio-photo-4.jpg"
   bio              : " "
-  location         :
-      "Bijenicka cesta 54," "Zagreb, Croatia, 10000"
+  location         : "Bijenicka cesta 54,| Zagreb, Croatia, 10000"
   employer         :
   #pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :    "https://scholar.google.com/citations?user=71sbH3EAAAAJ&hl=en"
