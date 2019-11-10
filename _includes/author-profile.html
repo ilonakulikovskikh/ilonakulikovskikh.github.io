@@ -19,12 +19,7 @@
     <a href="{{ author.cv }}" style="font-size: 0.75em; text-decoration:none;";><i class="fas fa-paperclip" aria-hidden="true"></i>&nbsp CV</a>
     {% endif %}
     <h3 class="author__position" style="font-size: 0.65em;">{{ author.position }}</h3>
-    {% if author.location %}
-      <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}
-    {% endif %}
-    {% if author.employer %}
-      <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}
-    {% endif %}
+    <h3 class="author__employer1" style="font-size: 0.65em;">{{ author.employer1 }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
@@ -32,6 +27,9 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
+      {% if author.location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
