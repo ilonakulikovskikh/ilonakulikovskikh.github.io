@@ -7,20 +7,20 @@ author_profile: true
 <span style = "font-size: 80%;">
 
 <span style="color:#52adc8">
-BioGD: Bio-inspired robust gradient descent.<br/>
-<span style="color:black">
-**Kulikovskikh I.**, Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br/>
-<span style="color:gray">
-PLoS ONE. 14(7): e0219004.<br/>
-[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf)
-
-<span style="color:#52adc8">
 An SGD-based meta-learner with "growing" descent.<br/>
 <span style="color:black">
 **Kulikovskikh I.**, Prokhorov S., Legović T., Šmuc T. (2019). <br/>
 <span style="color:gray">
 Journal of Physics: Conference Series. (accepted)<br/>
 [pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)
+
+<span style="color:#52adc8">
+BioGD: Bio-inspired robust gradient descent.<br/>
+<span style="color:black">
+**Kulikovskikh I.**, Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br/>
+<span style="color:gray">
+PLoS ONE. 14(7): e0219004.<br/>
+[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf)
 
 <span style="color:#52adc8">
 Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br/>
