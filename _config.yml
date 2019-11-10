@@ -78,7 +78,7 @@ author:
   cv               : "https://ilonakulikovskikh.github.io/cv/"
   bio              : " "
   location         : ""
-  employer         : | "University of Zagreb, Croatia"
+  employer         : > "University of Zagreb, Croatia"
   #pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=71sbH3EAAAAJ&hl=en"
   email            : "kulikovskikh.i@gmail.com"
