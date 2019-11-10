@@ -40,7 +40,7 @@ Engineering Applications of Artificial Intelligence. 65: 330-335.<br/>
 
 <span style="color:#52adc8; font-size:16px;">
 Promoting collaborative learning through regulation of guessing in clickers.<br/>
-<span style="color:black; font-size:14px;">
+<span style="color:black; font-size:13px;">
 **Kulikovskikh I.M.**, Prokhorov S.A., Suchkova S.A. (2017). <br/>
 <span style="color:gray">
 Computers in Human Behavior. 75: 81-91.<br/>
