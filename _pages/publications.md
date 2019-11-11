@@ -8,6 +8,7 @@ author_profile: true
 <span style = "font-size: 80%;">
 -->
 
+<span style = "text-align: justify;">
 <span style="color:#0070bc">
 An SGD-based meta-learner with "growing" descent.<br/>
 </span>
@@ -71,4 +72,4 @@ Prokhorov S.A., **Kulikovskikh I.M.** (2015) <br/>
 <span style="color:gray">
 Signal Processing. 108: 25-29. <br/>
 [[pdf](https://ilonakulikovskikh.github.io/files/prokhorov2015.pdf)]
-
+</span>
