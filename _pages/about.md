@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span style="color:gray; font-size:16px;">
 Machine learning, Bio-inspired computing, Life-long learning
 
 I am an Associate Professor at Samara University where I lead multidisciplinary projects at the intersection of electrical and knowledge models to create more robust and interpretable machine learning models. The primary focus of my research is on modeling the mechanisms of evolution of mind and cognitive functions with regards to the Desirable Difficulties and the Region of Proximal Learning frameworks in individual and group learning scenarious. This allows for faster models training on less data that involves the right amount of difficulty for learning.       
