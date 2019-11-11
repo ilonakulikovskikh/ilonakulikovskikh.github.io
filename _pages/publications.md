@@ -8,9 +8,9 @@ author_profile: true
 <span style = "font-size: 80%;">
 -->
 
-<span style="color:$info-color; ">
+<span style="color:#0070bc">
 An SGD-based meta-learner with "growing" descent.<br/>
-<span style="color:black; font-size: 80%;">
+<span style="color:black;">
 **Kulikovskikh I.**, Prokhorov S., Legović T., Šmuc T. (2019). <br/>
 <span style="color:gray">
 Journal of Physics: Conference Series. 1368. (accepted)<br/>
@@ -18,7 +18,7 @@ Journal of Physics: Conference Series. 1368. (accepted)<br/>
 
 <span style="color:$info-color; ">
 BioGD: Bio-inspired robust gradient descent.<br/>
-<span style="color:black; font-size:80%;">
+<span style="color:black;">
 **Kulikovskikh I.**, Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br/>
 <span style="color:gray">
 PLoS ONE. 14(7): e0219004.<br/>
@@ -26,7 +26,7 @@ PLoS ONE. 14(7): e0219004.<br/>
 
 <span style="color:$info-color; ">
 Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br/>
-<span style="color:black; font-size:80%;">
+<span style="color:black;">
 **Kulikovskikh I.M.**, Prokhorov S.A. (2018). <br/>
 <span style="color:gray">
 Journal of Physics: Conference Series. 1096(1): 012079<br/>
@@ -34,7 +34,7 @@ Journal of Physics: Conference Series. 1096(1): 012079<br/>
 
 <span style="color:$info-color; ">
 Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood.<br/>
-<span style="color:black; font-size:80%;">
+<span style="color:black;">
 **Kulikovskikh I.M.**, Prokhorov S.A. (2017). <br/>
 <span style="color:gray">
 Procedia Engineering. 201: 779–788.<br/>
@@ -42,7 +42,7 @@ Procedia Engineering. 201: 779–788.<br/>
 
 <span style="color:$info-color; ">
 Cognitive validation maps for early occupancy detection in environmental sensing.<br/>
-<span style="color:black; font-size:80%;">
+<span style="color:black;">
 **Kulikovskikh I.M.** (2017). <br/>
 <span style="color:gray">
 Engineering Applications of Artificial Intelligence. 65: 330-335.<br/>
@@ -50,7 +50,7 @@ Engineering Applications of Artificial Intelligence. 65: 330-335.<br/>
 
 <span style="color:$info-color; ">
 Promoting collaborative learning through regulation of guessing in clickers.<br/>
-<span style="color:black; font-size:80%;">
+<span style="color:black;">
 **Kulikovskikh I.M.**, Prokhorov S.A., Suchkova S.A. (2017). <br/>
 <span style="color:gray">
 Computers in Human Behavior. 75: 81-91.<br/>
@@ -58,7 +58,7 @@ Computers in Human Behavior. 75: 81-91.<br/>
 
 <span style="color:$info-color; ">
 Pole position problem for Meixner filters.<br/>
-<span style="color:black; font-size:80%;">
+<span style="color:black;">
 Prokhorov S.A., **Kulikovskikh I.M.** (2016).<br/>
 <span style="color:gray">
 Signal Processing. 120: 8-12.<br/>
@@ -66,7 +66,7 @@ Signal Processing. 120: 8-12.<br/>
 
 <span style="color:$info-color; ">
 Unique condition for generalized  Laguerre functions to solve pole position problem. <br/>
-<span style="color:black; font-size:16px;">
+<span style="color:black;">
 Prokhorov S.A., **Kulikovskikh I.M.** (2015) <br/>
 <span style="color:gray">
 Signal Processing. 108: 25-29. <br/>
