@@ -10,66 +10,66 @@ author_profile: true
 
 <span style = "text-align: justify;">
 <span style="color:#0070bc">
-An SGD-based meta-learner with "growing" descent.<br/>
+An SGD-based meta-learner with "growing" descent.<br>
 </span>
-**Kulikovskikh I.**, Prokhorov S., Legović T., Šmuc T. (2019). <br/>
+**Kulikovskikh I.**, Prokhorov S., Legović T., Šmuc T. (2019). <br>
 <span style="color:gray">
-Journal of Physics: Conference Series. 1368. (accepted)<br/>
+Journal of Physics: Conference Series. 1368. (accepted)<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]
 
 <span style="color:#0070bc">
-BioGD: Bio-inspired robust gradient descent.<br/>
+BioGD: Bio-inspired robust gradient descent.<br>
 </span>
-**Kulikovskikh I.**, Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br/>
+**Kulikovskikh I.**, Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br>
 <span style="color:gray">
-PLoS ONE. 14(7): e0219004.<br/>
+PLoS ONE. 14(7): e0219004.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf)]
 
 <span style="color:#0070bc">
-Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br/>
+Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br>
 </span>
-**Kulikovskikh I.M.**, Prokhorov S.A. (2018). <br/>
+**Kulikovskikh I.M.**, Prokhorov S.A. (2018). <br>
 <span style="color:gray">
-Journal of Physics: Conference Series. 1096(1): 012079<br/>
+Journal of Physics: Conference Series. 1096(1): 012079<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2018.pdf)]
 
 <span style="color:#0070bc">
-Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood.<br/>
+Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood.<br>
 </span>
-**Kulikovskikh I.M.**, Prokhorov S.A. (2017). <br/>
+**Kulikovskikh I.M.**, Prokhorov S.A. (2017). <br>
 <span style="color:gray">
-Procedia Engineering. 201: 779–788.<br/>
+Procedia Engineering. 201: 779–788.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2017_1.pdf)]
 
 <span style="color:#0070bc">
-Cognitive validation maps for early occupancy detection in environmental sensing.<br/>
+Cognitive validation maps for early occupancy detection in environmental sensing.<br>
 </span>
-**Kulikovskikh I.M.** (2017). <br/>
+**Kulikovskikh I.M.** (2017). <br>
 <span style="color:gray">
-Engineering Applications of Artificial Intelligence. 65: 330-335.<br/>
+Engineering Applications of Artificial Intelligence. 65: 330-335.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2017_2.pdf)]
 
 <span style="color:#0070bc">
-Promoting collaborative learning through regulation of guessing in clickers.<br/>
+Promoting collaborative learning through regulation of guessing in clickers.<br>
 </span>
-**Kulikovskikh I.M.**, Prokhorov S.A., Suchkova S.A. (2017). <br/>
+**Kulikovskikh I.M.**, Prokhorov S.A., Suchkova S.A. (2017). <br>
 <span style="color:gray">
-Computers in Human Behavior. 75: 81-91.<br/>
+Computers in Human Behavior. 75: 81-91.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2017.pdf)]
 
 <span style="color:#0070bc">
-Pole position problem for Meixner filters.<br/>
+Pole position problem for Meixner filters.<br>
 </span>
-Prokhorov S.A., **Kulikovskikh I.M.** (2016).<br/>
+Prokhorov S.A., **Kulikovskikh I.M.** (2016).<br>
 <span style="color:gray">
-Signal Processing. 120: 8-12.<br/>
+Signal Processing. 120: 8-12.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/prokhorov2016.pdf)]
 
 <span style="color:#0070bc">
-Unique condition for generalized  Laguerre functions to solve pole position problem. <br/>
+Unique condition for generalized  Laguerre functions to solve pole position problem. <br>
 </span>
-Prokhorov S.A., **Kulikovskikh I.M.** (2015) <br/>
+Prokhorov S.A., **Kulikovskikh I.M.** (2015) <br>
 <span style="color:gray">
-Signal Processing. 108: 25-29. <br/>
+Signal Processing. 108: 25-29. <br>
 [[pdf](https://ilonakulikovskikh.github.io/files/prokhorov2015.pdf)]
 </span>
