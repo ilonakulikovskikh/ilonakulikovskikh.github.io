@@ -8,14 +8,14 @@ author_profile: true
 <span style = "font-size: 80%;">
 -->
 
-<span style="color:gray; font-size: 80%;">
+<span style="color:light-gray;">
 **Papers on ecological models**<br/>
-<span style="color:#52adc8; font-size:16px;">
+<span style="color:#52adc8; ">
 An SGD-based meta-learner with "growing" descent.<br/>
-<span style="color:black; font-size:14px;">
+<span style="color:black; font-size:16px;">
 **Kulikovskikh I.**, Prokhorov S., Legović T., Šmuc T. (2019). <br/>
 <span style="color:gray">
-Journal of Physics: Conference Series. (accepted)<br/>
+Journal of Physics: Conference Series. 1368 (accepted)<br/>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]
 
 <span style="color:#52adc8; font-size:16px;">
