@@ -6,7 +6,7 @@ author_profile: true
 ---
 <span style = "font-size: 80%;">
 
-### Bio-inspired machine learning models
+## Bio-inspired machine learning models
 <span style="color:#52adc8; font-size:16px;">
 Robust machine learning inspired by the models of population dynamics.<br/>
 <span style="color:black; font-size:14px;">
