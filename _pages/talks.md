@@ -6,7 +6,7 @@ author_profile: true
 ---
 <span style = "font-size: 80%;">
 
-#### Bio-inspired machine learning models
+### Bio-inspired machine learning models
 <span style="color:#52adc8; font-size:16px;">
 Robust machine learning inspired by the models of population dynamics.<br/>
 <span style="color:black; font-size:14px;">
@@ -24,7 +24,7 @@ Bio-inspired robust machine learning.<br/>
 [[abstract](https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019.pdf) ---
 [poster](https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019.pdf)] 
 
-#### Knowledge models
+### Knowledge models
 <span style="color:#52adc8; font-size:16px;">
 Machines in a classroom: Towards human-like active learning.<br/>
 <span style="color:black; font-size:14px;">
