@@ -6,7 +6,7 @@ author_profile: true
 ---
 <span style = "font-size: 80%;">
 
-### Bio-inspired machine learning models
+## Bio-inspired machine learning models
 <span style="color:#52adc8; font-size:16px;">
 An SGD-based meta-learner with "growing" descent.<br/>
 <span style="color:black; font-size:14px;">
