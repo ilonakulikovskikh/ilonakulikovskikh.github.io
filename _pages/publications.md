@@ -4,7 +4,9 @@ title: "Selected publications"
 permalink: /publications/
 author_profile: true
 ---
+<!---
 <span style = "font-size: 80%;">
+-->
 
 <span style="color:gray; font-size:16px;">
 **Papers on ecological models**<br/>
