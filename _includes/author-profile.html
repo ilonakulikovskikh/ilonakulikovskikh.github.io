@@ -15,15 +15,15 @@
   </div>
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    <p class="author__position" style="font-size: 0.85em;">{{ author.position }}</p>
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     <!---
+    <p class="author__position" style="font-size: 0.85em;">{{ author.position }}</p>
     <p class="author__employer1" style="font-size: 0.85em; margin-bottom: -1em; margin-top: -0.0em;">{{ author.employer1 }}</p>
     <p class="author__employer2" style="font-size: 0.85em;">{{ author.employer2 }}</p>
     -->
     {% if author.cv %}
       <a href="{{ author.cv }}" style="font-size: 0.85em; text-decoration:none;";><i class="fas fa-paperclip" aria-hidden="true"></i>&nbsp CV</a>
     {% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
 
