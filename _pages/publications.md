@@ -9,8 +9,8 @@ author_profile: true
 -->
 
 <span style="color:#0070bc">
-An SGD-based meta-learner with "growing" descent.
-</span><br/>
+An SGD-based meta-learner with "growing" descent.<br/>
+<span style="color:mix(#000, #7a8288, 40%)">
 **Kulikovskikh I.**, Prokhorov S., Legović T., Šmuc T. (2019). <br/>
 <span style="color:gray">
 Journal of Physics: Conference Series. 1368. (accepted)<br/>
