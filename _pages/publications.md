@@ -8,7 +8,7 @@ author_profile: true
 <span style = "font-size: 80%;">
 -->
 
-<span style="color:light-gray;">
+<span style="color:$light-gray;">
 **Papers on ecological models**<br/>
 <span style="color:#52adc8; ">
 An SGD-based meta-learner with "growing" descent.<br/>
