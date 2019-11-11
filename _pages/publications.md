@@ -6,7 +6,8 @@ author_profile: true
 ---
 <span style = "font-size: 80%;">
 
-## Bio-inspired machine learning models
+<span style="color:#7a8288; font-size:16px;">
+Bio-inspired machine learning models
 <span style="color:#52adc8; font-size:16px;">
 An SGD-based meta-learner with "growing" descent.<br/>
 <span style="color:black; font-size:14px;">
@@ -47,7 +48,8 @@ Minimizing the effects of floor and ceiling to improve the convergence of loglik
 Procedia Engineering. 201: 779–788.<br/>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2017_1.pdf)]
 
-### Knowledge models
+<span style="color:#7a8288; font-size:16px;">
+Knowledge models
 <span style="color:#52adc8; font-size:16px;">
 Promoting collaborative learning through regulation of guessing in clickers.<br/>
 <span style="color:black; font-size:14px;">
@@ -56,8 +58,8 @@ Promoting collaborative learning through regulation of guessing in clickers.<br/
 Computers in Human Behavior. 75: 81-91.<br/>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2017.pdf)]
 
-
-### Electrical models
+<span style="color:#7a8288; font-size:16px;">
+Electrical models
 <span style="color:#52adc8; font-size:16px;">
 Pole position problem for Meixner filters.<br/>
 <span style="color:black; font-size:14px;">
