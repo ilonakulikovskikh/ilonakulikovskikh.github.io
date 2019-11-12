@@ -75,11 +75,10 @@ Signal Processing. 120: 8-12.<br>
 <span style="color:#0070bc">
 Unique condition for generalized  Laguerre functions to solve pole position problem. <br>
 </span>
-Prokhorov S.A., **Kulikovskikh I.M.** (2015) <br>
+Prokhorov S.A., <b>Kulikovskikh I.M.</b> (2015) <br>
 <span style="color:gray">
 Signal Processing. 108: 25-29. <br>
-[[pdf](https://ilonakulikovskikh.github.io/files/prokhorov2015.pdf)]
-</span>
+<a href="https://ilonakulikovskikh.github.io/files/prokhorov2015.pdf">pdf</a>
 
 Papers in peer-reviewed conference proceedings<br>
 
