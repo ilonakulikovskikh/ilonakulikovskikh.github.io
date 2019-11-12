@@ -86,11 +86,16 @@ Signal Processing. 108: 25-29. <br>
 <a href="https://ilonakulikovskikh.github.io/files/prokhorov2015.pdf">pdf</a>
 -->
 
+<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>Papers in peer-reviewed conference proceedings in English</b><br>
+</span>
+<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
 
 
+<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>Abstracts in peer-reviewed conference proceedings in English</b><br>
-<span style ="font-size: 85%; ">
+</span>
+<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
 <span style="color:#0070bc">
 Machines in a classroom: Towards human-like active learning.<br>
 </span>
@@ -128,10 +133,23 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:gray">
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
+<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>Books</b><br>
+</span>
+<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
 
-<b>Other 72 peer-reviewed publications in Russian
-<span style ="font-size: 85%; ">
+<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
+<b>Other 72 peer-reviewed publications in Russian</b>
+</span>
+<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
 
+<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
+<b>Software patents</b><br>
+granted by Federal Institute for Industrial Property
+</span>
+<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
 
+<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>In submission to journals and conferences</b><br>
+</span>
+<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
