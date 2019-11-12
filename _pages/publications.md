@@ -7,7 +7,7 @@ author_profile: true
 <!---
 <span style = "font-size: 80%;">
 -->
-Papers in peer-reviewed journals<br>
+<b>Papers in peer-reviewed journals</b><br>
 <span style ="font-size: 90%;">
 <span style="color:#0070bc">
 An SGD-based meta-learner with "growing" descent.<br>
@@ -84,10 +84,10 @@ Signal Processing. 108: 25-29. <br>
 <a href="https://ilonakulikovskikh.github.io/files/prokhorov2015.pdf">pdf</a>
 -->
 
-Papers in peer-reviewed conference proceedings<br>
+<b>Papers in peer-reviewed conference proceedings</b><br>
 
 
-Abstracts in peer-reviewed conference proceedings<br>
+<b>Abstracts in peer-reviewed conference proceedings</b><br>
 <span style ="font-size: 90%;">
 <span style="color:#0070bc">
 Robust machine learning inspired by the models of population dynamics.<br>

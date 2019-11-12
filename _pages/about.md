@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research interests"
+title: "<span style ="font-size:95%; ">Research interests"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
