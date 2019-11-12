@@ -8,7 +8,7 @@ author_profile: true
 <span style = "font-size: 80%;">
 -->
 Papers in peer-reviewed journals<br>
-<span style ="font-size:90%;">
+<div style ="font-size: 90%;">
 <span style="color:#0070bc">
 An SGD-based meta-learner with "growing" descent.<br>
 </span>
@@ -104,5 +104,4 @@ Machines in a classroom: Towards human-like active learning.<br>
 [[abstract](https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019_2.pdf)]
 [[poster](https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019_2.pdf)]
 [[talk](https://prezi.com/view/ivikvBr4IXjZAlXW4QoX/)]
-
-</span>
+</div>
