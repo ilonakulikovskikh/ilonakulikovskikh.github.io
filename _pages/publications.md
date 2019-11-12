@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<span style ="font-size:90%;">Selected publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -118,3 +118,8 @@ Machines in a classroom: Towards human-like active learning.<br>
 [[poster](https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019_2.pdf)]
 [[talk](https://prezi.com/view/ivikvBr4IXjZAlXW4QoX/)]
 
+<b>Books</b><br>
+
+<b>Other 72 papers 
+
+<b>In Submission to Journals and Conferences</b><br>
