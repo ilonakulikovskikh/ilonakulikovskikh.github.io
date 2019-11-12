@@ -88,7 +88,7 @@ Signal Processing. 108: 25-29. <br>
 
 
 <b>Abstracts in peer-reviewed conference proceedings in English</b><br>
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style ="font-size: 85%; ">
 <span style="color:#0070bc">
 Machines in a classroom: Towards human-like active learning.<br>
 </span>
@@ -129,7 +129,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <b>Books</b><br>
 
 <b>Other 72 peer-reviewed publications in Russian
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style ="font-size: 85%; ">
 
 
 <b>In submission to journals and conferences</b><br>
