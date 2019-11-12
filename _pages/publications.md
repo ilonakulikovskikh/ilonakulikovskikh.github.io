@@ -34,6 +34,7 @@ Psychological perspectives on implicit regularization: A model of retrieval-indu
 <span style="color:gray">
 Journal of Physics: Conference Series. 1096(1): 012079<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2018.pdf)]<br>
+
 <span style ="font-size: 85%;">
 <span style="color:#0070bc">
 Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood.<br>
@@ -97,6 +98,7 @@ Machines in a classroom: Towards human-like active learning.<br>
 [[abstract](https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019_2.pdf)]
 [[poster](https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019_2.pdf)]
 [[talk](https://prezi.com/view/ivikvBr4IXjZAlXW4QoX/)]<br>
+
 <span style ="font-size: 85%;">
 <span style="color:#0070bc">
 Bio-inspired robust machine learning.<br>
@@ -106,6 +108,7 @@ Bio-inspired robust machine learning.<br>
 4th Workshop on Data Science (IWDS 2019). Oct 15, 2019. Zagreb, Croatia.<br>
 [[abstract](https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019.pdf)]
 [[poster](https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019.pdf)] <br>
+
 <span style ="font-size: 85%;">
 <span style="color:#0070bc">
 Robust machine learning inspired by the models of population dynamics.<br>
@@ -114,6 +117,7 @@ Robust machine learning inspired by the models of population dynamics.<br>
 <span style="color:gray">
 12th International Ljubljana-Zagreb Workshop on Knowledge Technologies and Data Science. Oct 24-25, 2019. Zagreb, Croatia.<br>
 [[talk](https://ilonakulikovskikh.github.io/files/talk_kulikovskikh2019_1.pdf)]<br>
+
 <span style ="font-size: 85%;">
 <span style="color:#0070bc">
 Some lightweight algorithms for scientific computing in mobile technologies.<br>
