@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style ="text-align: justify;">
-<span style ="color:gray; font-size:90%; margin-top:-1.25em; display:inline-block;">
+<span style ="color:gray; font-size:90%; ">
 Machine learning, Bio-inspired computing, Behavioral science, Evolution of mind and cognitive functions, Human-centric artificial intelligence 
 </span><br><br>
 
