@@ -7,7 +7,7 @@ author_profile: true
 <!---
 <span style = "font-size: 80%;">
 -->
-<span style="font-size: 90%; ">
+<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>Papers in peer-reviewed journals in English</b>
 </span>
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
@@ -90,7 +90,12 @@ Signal Processing. 108: 25-29. <br>
 <b>Papers in peer-reviewed conference proceedings in English</b><br>
 </span>
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
-fdsdf
+<span style="color:#0070bc">
+Some lightweight algorithms for scientific computing in mobile technologies.<br>
+</span>
+**Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
+<span style="color:gray">
+8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>Abstracts in peer-reviewed conference proceedings in English</b><br>
@@ -136,9 +141,13 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>Books</b>
 </span>
-
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
-Book are here
+<span style="color:#0070bc">
+Some lightweight algorithms for scientific computing in mobile technologies.<br>
+</span>
+**Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
+<span style="color:gray">
+8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>Other 35 peer-reviewed publications in Russian</b><br>
@@ -147,15 +156,26 @@ Book are here
 Available upon request.<br>
 [[list](https://elibrary.ru/author_items.asp?authorid=528935)]<br>
 
-
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>Software patents</b><br>
 granted by Federal Institute for Industrial Property
 </span>
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style="color:#0070bc">
+Some lightweight algorithms for scientific computing in mobile technologies.<br>
+</span>
+**Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
+<span style="color:gray">
+8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>In submission to journals and conferences</b><br>
 </span>
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style="color:#0070bc">
+Some lightweight algorithms for scientific computing in mobile technologies.<br>
+</span>
+**Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
+<span style="color:gray">
+8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
