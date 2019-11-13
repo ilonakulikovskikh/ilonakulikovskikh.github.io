@@ -18,6 +18,7 @@ An SGD-based meta-learner with "growing" descent.<br>
 <span style="color:gray">
 Journal of Physics: Conference Series. 1368. (accepted)<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]
+
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
 BioGD: Bio-inspired robust gradient descent.<br>
@@ -26,6 +27,7 @@ BioGD: Bio-inspired robust gradient descent.<br>
 <span style="color:gray">
 PLoS ONE. 14(7): e0219004.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf)]
+
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
 Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br>
