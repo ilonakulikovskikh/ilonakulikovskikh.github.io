@@ -8,7 +8,7 @@ author_profile: true
 <span style = "font-size: 80%;">
 -->
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
-<b>Papers in peer-reviewed journals in English</b><br>
+<b>Papers in peer-reviewed journals in English</b>
 </span>
 
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
@@ -135,8 +135,9 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
-<b>Books</b><br>
+<b>Books</b>
 </span>
+
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
 Book are here
 
