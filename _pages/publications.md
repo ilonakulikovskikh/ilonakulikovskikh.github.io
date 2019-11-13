@@ -15,39 +15,32 @@ author_profile: true
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
 An SGD-based meta-learner with "growing" descent.<br>
-</span>
 <span style="color:$dark-gray">
 **Kulikovskikh I.**, Prokhorov S., Legović T., Šmuc T. (2019). <br>
 <span style="color:gray">
 Journal of Physics: Conference Series. 1368. (accepted)<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]<br>
-<br style="line-height:10px;" />
 <span style="color:#0070bc; ">
 BioGD: Bio-inspired robust gradient descent.<br>
-</span>
 <span style="color:#494e52">
 **Kulikovskikh I.**, Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br>
 <span style="color:gray">
 PLoS ONE. 14(7): e0219004.<br>
-[[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf)]
-
-<span style ="font-size: 85%; ">
+[[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf)]<br>
 <span style="color:#0070bc">
 Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br>
-</span>
+<span style="color:#494e52">
 **Kulikovskikh I.M.**, Prokhorov S.A. (2018). <br>
 <span style="color:gray">
 Journal of Physics: Conference Series. 1096(1): 012079<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2018.pdf)]<br>
-
-<span style ="font-size: 85%; ">
 <span style="color:#0070bc">
 Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood.<br>
-</span>
+<span style="color:#494e52">
 **Kulikovskikh I.M.**, Prokhorov S.A. (2017). <br>
 <span style="color:gray">
 Procedia Engineering. 201: 779–788.<br>
-[[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2017_1.pdf)]
+[[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2017_1.pdf)]<br>
 
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
