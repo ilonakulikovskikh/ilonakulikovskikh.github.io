@@ -7,7 +7,7 @@ author_profile: true
 <!---
 <span style = "font-size: 80%;">
 -->
-<span style="font-size: 90%;  ">
+<span style="font-size: 95%;  ">
 <b>Papers in peer-reviewed journals in English</b><br>
 </span>
 <span style ="font-size: 85%; ">
@@ -86,7 +86,7 @@ Signal Processing. 108: 25-29. <br>
 <a href="https://ilonakulikovskikh.github.io/files/prokhorov2015.pdf">pdf</a>
 -->
 
-<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
+<span style="font-size: 95%; ">
 <b>Papers in peer-reviewed conference proceedings in English</b><br>
 </span>
 <span style ="font-size: 85%; ">
@@ -97,7 +97,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:gray">
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
-<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
+<span style="font-size: 95%; ">
 <b>Abstracts in peer-reviewed conference proceedings in English</b><br>
 </span>
 <span style ="font-size: 85%; ">
@@ -138,7 +138,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:gray">
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
-<span style="font-size: 90%; display:inline-block;">
+<span style="font-size: 95%; ">
 <b>Books</b><br>
 </span>
 <span style ="font-size: 85%; ">
@@ -149,7 +149,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:gray">
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
-<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
+<span style="font-size: 95%; ">
 <b>Papers in peer-reviewed journals in Russian</b><br>
 </span>
 <span style ="font-size: 85%; ">
@@ -160,7 +160,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:gray">
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
-<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
+<span style="font-size: 95%; ">
 <b>Software patents</b><br>
 granted by Federal Institute for Industrial Property<br>
 </span>
@@ -172,7 +172,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:gray">
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
-<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
+<span style="font-size: 95%; ">
 <b>In submission to journals and conferences</b><br>
 </span>
 <span style ="font-size: 85%; ">
