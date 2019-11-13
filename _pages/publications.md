@@ -161,9 +161,9 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
 <span style="font-size: 95%; ">
-<b>Software patents</b><br>
-granted by Federal Institute for Industrial Property
-</span><br>
+<b>Software patents</b> 
+granted by Federal Institute for Industrial Property<br>
+</span>
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
 Some lightweight algorithms for scientific computing in mobile technologies.<br>
