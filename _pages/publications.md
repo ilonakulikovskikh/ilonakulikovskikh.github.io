@@ -11,8 +11,10 @@ author_profile: true
 <b>Papers in peer-reviewed journals in English</b>
 </span>
 <span style ="font-size: 85%; display:inline-block;">
-<span style="color:#0070bc">
-1. An SGD-based meta-learner with "growing" descent.<br>
+
+1. <span style="color:#0070bc">
+An SGD-based meta-learner with "growing" descent.<br>
+</span>
 </span>
 **Kulikovskikh I.**, Prokhorov S., Legović T., Šmuc T. (2019). <br>
 <span style="color:gray">
@@ -20,8 +22,10 @@ Journal of Physics: Conference Series. 1368. (accepted)<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]
 
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block; ">
-<span style="color:#0070bc">
-1. BioGD: Bio-inspired robust gradient descent.<br>
+
+1. <span style="color:#0070bc">
+BioGD: Bio-inspired robust gradient descent.<br>
+</span>
 </span>
 **Kulikovskikh I.**, Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br>
 <span style="color:gray">
