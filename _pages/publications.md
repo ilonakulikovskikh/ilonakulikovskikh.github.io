@@ -10,28 +10,27 @@ author_profile: true
 <span style="font-size: 90%; ;">
 <b>Papers in peer-reviewed journals in English</b>
 </span>
-
-1. <span style ="font-size: 85%; display:inline-block;">
+<span style ="font-size: 85%; display:inline-block;">
 <span style="color:#0070bc">
-An SGD-based meta-learner with "growing" descent.<br>
+1. An SGD-based meta-learner with "growing" descent.<br>
 </span>
 **Kulikovskikh I.**, Prokhorov S., Legović T., Šmuc T. (2019). <br>
 <span style="color:gray">
 Journal of Physics: Conference Series. 1368. (accepted)<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]
 
-1. <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block; ">
+<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block; ">
 <span style="color:#0070bc">
-BioGD: Bio-inspired robust gradient descent.<br>
+1. BioGD: Bio-inspired robust gradient descent.<br>
 </span>
 **Kulikovskikh I.**, Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br>
 <span style="color:gray">
 PLoS ONE. 14(7): e0219004.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf)]
 
-1. <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
 <span style="color:#0070bc">
-Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br>
+3. Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br>
 </span>
 **Kulikovskikh I.M.**, Prokhorov S.A. (2018). <br>
 <span style="color:gray">
