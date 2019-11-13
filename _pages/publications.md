@@ -162,8 +162,8 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 
 <span style="font-size: 95%; ">
 <b>Software patents</b><br>
-granted by Federal Institute for Industrial Property<br>
-</span>
+granted by Federal Institute for Industrial Property
+</span><br>
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
 Some lightweight algorithms for scientific computing in mobile technologies.<br>
