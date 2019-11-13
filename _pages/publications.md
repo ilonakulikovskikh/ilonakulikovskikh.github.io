@@ -19,7 +19,7 @@ An SGD-based meta-learner with "growing" descent.<br>
 Journal of Physics: Conference Series. 1368. (accepted)<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]
 
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block; ">
+<span style ="font-size: 85%; display:inline-block; ">
 <span style="color:#0070bc">
 BioGD: Bio-inspired robust gradient descent.<br>
 </span>
@@ -28,7 +28,7 @@ BioGD: Bio-inspired robust gradient descent.<br>
 PLoS ONE. 14(7): e0219004.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf)]
 
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style ="font-size: 85%; display:inline-block;">
 <span style="color:#0070bc">
 Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br>
 **Kulikovskikh I.M.**, Prokhorov S.A. (2018). <br>
@@ -36,7 +36,7 @@ Psychological perspectives on implicit regularization: A model of retrieval-indu
 Journal of Physics: Conference Series. 1096(1): 012079<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2018.pdf)]<br>
 
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style ="font-size: 85%; display:inline-block;">
 <span style="color:#0070bc">
 Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood.<br>
 </span>
@@ -45,7 +45,7 @@ Minimizing the effects of floor and ceiling to improve the convergence of loglik
 Procedia Engineering. 201: 779–788.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2017_1.pdf)]
 
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style ="font-size: 85%; display:inline-block;">
 <span style="color:#0070bc">
 Cognitive validation maps for early occupancy detection in environmental sensing.<br>
 </span>
@@ -54,7 +54,7 @@ Cognitive validation maps for early occupancy detection in environmental sensing
 Engineering Applications of Artificial Intelligence. 65: 330-335.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2017_2.pdf)]
 
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style ="font-size: 85%; display:inline-block;">
 <span style="color:#0070bc">
 Promoting collaborative learning through regulation of guessing in clickers.<br>
 </span>
@@ -63,7 +63,7 @@ Promoting collaborative learning through regulation of guessing in clickers.<br>
 Computers in Human Behavior. 75: 81-91.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2017.pdf)]
 
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style ="font-size: 85%; display:inline-block;">
 <span style="color:#0070bc">
 Pole position problem for Meixner filters.<br>
 </span>
@@ -72,7 +72,7 @@ Prokhorov S.A., **Kulikovskikh I.M.** (2016).<br>
 Signal Processing. 120: 8-12.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/prokhorov2016.pdf)]
 
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style ="font-size: 85%; display:inline-block;">
 <span style="color:#0070bc">
 Unique condition for generalized  Laguerre functions to solve pole position problem. <br>
 </span>
