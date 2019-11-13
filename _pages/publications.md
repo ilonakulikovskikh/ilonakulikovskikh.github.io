@@ -8,9 +8,6 @@ author_profile: true
 <span style = "font-size: 80%;">
 -->
 
- br {
-   line-height: 5px;
-}
 
 <span style="font-size: 95%;  ">
 <b>Papers in peer-reviewed journals in English</b><br>
@@ -23,7 +20,10 @@ An SGD-based meta-learner with "growing" descent.<br>
 **Kulikovskikh I.**, Prokhorov S., Legović T., Šmuc T. (2019). <br>
 <span style="color:gray">
 Journal of Physics: Conference Series. 1368. (accepted)<br>
-[[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]<br><br>
+[[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]
+<div style="line-height:50%;">
+    <br>
+</div>
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
 BioGD: Bio-inspired robust gradient descent.<br>
