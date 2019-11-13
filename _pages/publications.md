@@ -21,7 +21,7 @@ An SGD-based meta-learner with "growing" descent.<br>
 <span style="color:gray">
 Journal of Physics: Conference Series. 1368. (accepted)<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]<br>
-<br style="line-height:5px;" />
+<br style="line-height:10px;" />
 <span style="color:#0070bc; ">
 BioGD: Bio-inspired robust gradient descent.<br>
 </span>
