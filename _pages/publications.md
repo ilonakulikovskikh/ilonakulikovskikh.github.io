@@ -140,7 +140,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 Book are here
 
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
-<b>Other 35 peer-reviewed publications in Russian</b>
+<b>Other 35 peer-reviewed publications in Russian</b><br>
 </span>
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
 Available upon request.<br>
