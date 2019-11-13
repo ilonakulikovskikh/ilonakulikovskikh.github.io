@@ -10,7 +10,7 @@ author_profile: true
 <span style="font-size: 90%; ;">
 <b>Papers in peer-reviewed journals in English</b>
 </span>
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+<span style ="font-size: 85%; display:inline-block;">
 <span style="color:#0070bc">
 An SGD-based meta-learner with "growing" descent.<br>
 </span>
