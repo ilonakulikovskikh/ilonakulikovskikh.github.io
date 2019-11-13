@@ -7,7 +7,7 @@ author_profile: true
 <!---
 <span style = "font-size: 80%;">
 -->
-<span style="font-size: 90%;">
+<span style="font-size: 90%; margin-top:-1.25em; display:inline-block; ">
 <b>Papers in peer-reviewed journals in English</b>
 </span>
 <span style ="font-size: 85%; display:inline-block;">
