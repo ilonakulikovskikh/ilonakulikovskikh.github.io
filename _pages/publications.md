@@ -153,8 +153,12 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <b>Other 35 peer-reviewed publications in Russian</b><br>
 </span>
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
-Available upon request.<br>
-[[list](https://elibrary.ru/author_items.asp?authorid=528935)]<br>
+<span style="color:#0070bc">
+Some lightweight algorithms for scientific computing in mobile technologies.<br>
+</span>
+**Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
+<span style="color:gray">
+8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>Software patents</b><br>
