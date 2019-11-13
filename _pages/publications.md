@@ -139,9 +139,12 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
 
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
-<b>Other 72 peer-reviewed publications in Russian</b>
+<b>Other 35 peer-reviewed publications in Russian</b>
 </span>
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+Available upon request<br>
+[[list](https://elibrary.ru/author_items.asp?authorid=528935)]<br>
+
 
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
 <b>Software patents</b><br>
