@@ -10,7 +10,8 @@ author_profile: true
 <span style="font-size: 90%; ;">
 <b>Papers in peer-reviewed journals in English</b>
 </span>
-<span style ="font-size: 85%; display:inline-block;">
+
+1. <span style ="font-size: 85%; display:inline-block;">
 <span style="color:#0070bc">
 An SGD-based meta-learner with "growing" descent.<br>
 </span>
@@ -19,7 +20,7 @@ An SGD-based meta-learner with "growing" descent.<br>
 Journal of Physics: Conference Series. 1368. (accepted)<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]
 
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block; ">
+1. <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block; ">
 <span style="color:#0070bc">
 BioGD: Bio-inspired robust gradient descent.<br>
 </span>
@@ -28,7 +29,7 @@ BioGD: Bio-inspired robust gradient descent.<br>
 PLoS ONE. 14(7): e0219004.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf)]
 
-<span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
+1. <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
 <span style="color:#0070bc">
 Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br>
 </span>
@@ -150,7 +151,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
 <span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
-<b>Other 35 peer-reviewed publications in Russian</b><br>
+<b>Papers in peer-reviewed journals in Russian</b><br>
 </span>
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
 <span style="color:#0070bc">
