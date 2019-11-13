@@ -23,7 +23,7 @@ Journal of Physics: Conference Series. 1368. (accepted)<br>
 <span style="color:#0070bc">
 BioGD: Bio-inspired robust gradient descent.<br>
 </span>
-<span style="color:gray">
+<span style="color:$dark-gray">
 **Kulikovskikh I.**, Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br>
 <span style="color:gray">
 PLoS ONE. 14(7): e0219004.<br>
