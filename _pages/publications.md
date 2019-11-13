@@ -138,7 +138,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:gray">
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
-<span style="font-size: 90%; margin-bottom:1.25em; display:inline-block;">
+<span style="font-size: 90%; display:inline-block;">
 <b>Books</b>
 </span>
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block;">
