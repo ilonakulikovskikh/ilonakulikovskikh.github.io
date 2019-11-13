@@ -10,9 +10,7 @@ author_profile: true
 <span style="font-size: 90%; ;">
 <b>Papers in peer-reviewed journals in English</b>
 </span>
-<ol>
 <span style ="font-size: 85%; display:inline-block;">
-<li>
 <span style="color:#0070bc">
 An SGD-based meta-learner with "growing" descent.<br>
 </span>
@@ -20,7 +18,6 @@ An SGD-based meta-learner with "growing" descent.<br>
 <span style="color:gray">
 Journal of Physics: Conference Series. 1368. (accepted)<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf)]
-</li>
 
 <span style ="font-size: 85%; margin-top:-1.25em; display:inline-block; ">
 <span style="color:#0070bc">
@@ -184,4 +181,3 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 **Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
 <span style="color:gray">
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
-</ol>
