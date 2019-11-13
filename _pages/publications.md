@@ -13,6 +13,7 @@ author_profile: true
 <b>Papers in peer-reviewed journals in English</b><br>
 </span>
 <span style ="font-size: 85%; ">
+1. 
 <span style="color:#0070bc">
 An SGD-based meta-learner with "growing" descent.<br>
 <span style="color:#494e52">
@@ -141,6 +142,12 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 **Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
 <span style="color:gray">
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
+
+<span style="font-size: 95%; ">
+<b>Other 32 papers and abstracts in peer-reviewed conference proceedings in Russian</b><br>
+</span>
+<span style ="font-size: 85%; ">
+Available upon request
 
 <span style="font-size: 95%; ">
 <b>Software patents</b> 
