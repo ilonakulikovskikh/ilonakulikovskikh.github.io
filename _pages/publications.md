@@ -79,7 +79,7 @@ Signal Processing. 108: 25-29. <br>
 </span>
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
-Some lightweight algorithms for scientific computing in mobile technologies.<br>
+> Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:#494e52">
 **Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
 <span style="color:gray">
@@ -118,7 +118,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 </span>
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
-Some lightweight algorithms for scientific computing in mobile technologies.<br>
+> Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:#494e52">
 **Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
 <span style="color:gray">
@@ -129,7 +129,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 </span>
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
-Some lightweight algorithms for scientific computing in mobile technologies.<br>
+> Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:#494e52">
 **Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
 <span style="color:gray">
@@ -147,7 +147,7 @@ granted by Federal Institute for Industrial Property<br>
 </span>
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
-Some lightweight algorithms for scientific computing in mobile technologies.<br>
+> Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:#494e52">
 **Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
 <span style="color:gray">
@@ -158,7 +158,7 @@ Some lightweight algorithms for scientific computing in mobile technologies.<br>
 </span>
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
-Some lightweight algorithms for scientific computing in mobile technologies.<br>
+> Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:#494e52">
 **Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
 <span style="color:gray">
