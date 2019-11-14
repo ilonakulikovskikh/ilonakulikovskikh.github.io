@@ -180,10 +180,11 @@ Implicit regularization of regression models based on the generalized logistic e
 <span style="color:#494e52">
 **Kulikovskikh I.** (2018). <br>
 <span style="color:gray">
-Seminar on Data Science. Nov 8, 2018. Ruđer Bošković Institute, Zagreb, Croatia.<br>
+Seminar on Data Science. Nov 8, 2018. Laboratory for Machine Learning and Knowledge Representation, Ruđer Bošković Institute, Zagreb, Croatia.<br>
 <span style="color:#0070bc">
 Implicit regularization of regression models based on cognitive validation maps.<br>
 <span style="color:#494e52">
 **Kulikovskikh I.** (2018). <br>
 <span style="color:gray">
 Seminar on Machine Learning. March 29, 2018. Computational Center of Russian Academy of Sciences, Moscow, Russia.<br>
+Seminar on Problems in Mathematics. December 8, 2017. Department of Mathematics, Samara, Russia.<br>
