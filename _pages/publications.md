@@ -107,18 +107,37 @@ Bio-inspired robust machine learning.<br>
 [[abstract](https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019.pdf)]
 [[poster](https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019.pdf)] <br>
 <span style="color:#0070bc">
-Robust machine learning inspired by the models of population dynamics.<br>
-<span style="color:#494e52">
-**Kulikovskikh I.**, Šmuc T. (2019). <br>
-<span style="color:gray">
-12th International Ljubljana-Zagreb Workshop on Knowledge Technologies and Data Science. Oct 24-25, 2019. Zagreb, Croatia.<br>
-[[talk](https://ilonakulikovskikh.github.io/files/talk_kulikovskikh2019_1.pdf)]<br>
-<span style="color:#0070bc">
 Some lightweight algorithms for scientific computing in mobile technologies.<br>
 <span style="color:#494e52">
 **Kulikovskikh I.M.**, Prokhorov S.A. (2013). <br>
 <span style="color:gray">
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
+
+<span style="font-size: 95%; ">
+<b>Talks</b><br>
+</span>
+<span style ="font-size: 85%; ">
+<span style="color:#0070bc">
+Robust machine learning inspired by the models of population dynamics.<br>
+<span style="color:#494e52">
+**Kulikovskikh I.**, Šmuc T. (2019). <br>
+<span style="color:gray">
+12th International Ljubljana-Zagreb Workshop on Knowledge Technologies and Data Science. Oct 24-25, 2019. University of Zagreb, Zagreb, Croatia.<br>
+[[talk](https://ilonakulikovskikh.github.io/files/talk_kulikovskikh2019_1.pdf)]<br>
+<span style ="font-size: 85%; ">
+<span style="color:#0070bc">
+Implicit regularization of regression models based on the generalized logistic equation.<br>
+<span style="color:#494e52">
+**Kulikovskikh I.** (2018). <br>
+<span style="color:gray">
+Seminar on Data Science. Nov 8, 2018. Ruđer Bošković Institute, Zagreb, Croatia.<br>
+<span style ="font-size: 85%; ">
+<span style="color:#0070bc">
+Implicit regularization of regression models based on cognitive validation maps.<br>
+<span style="color:#494e52">
+**Kulikovskikh I.** (2018). <br>
+<span style="color:gray">
+Seminar on Machine Learning. March 29, 2018. Computational Center of Russian Academy of Sciences, Moscow, Russia.<br>
 
 <span style="font-size: 95%; ">
 <b>Books</b><br>
