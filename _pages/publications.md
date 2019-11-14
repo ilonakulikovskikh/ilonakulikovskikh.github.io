@@ -35,6 +35,12 @@ Psychological perspectives on implicit regularization: A model of retrieval-indu
 Journal of Physics: Conference Series. 1096(1): 012079<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2018.pdf)]<br>
 <span style="color:#0070bc">
+Meixner nonorthogonal filters.<br>
+<span style="color:#494e52">
+**Kulikovskikh I.M.** (2018). <br>
+<span style="color:gray">
+Automation and Remote Control. 79(8): 1458-1473.<br>
+<span style="color:#0070bc">
 Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood.<br>
 <span style="color:#494e52">
 **Kulikovskikh I.M.**, Prokhorov S.A. (2017). <br>
