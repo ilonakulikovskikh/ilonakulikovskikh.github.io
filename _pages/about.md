@@ -19,3 +19,5 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 I am currently a postdoctoral research fellow at University of Zagreb and Ruđer Bošković Institute where we observe the mechanisms of evolution in terms of ecological models.  
 </span>
 </div>
+
+<HR WIDTH="25%" COLOR="#6699FF" SIZE="6">
