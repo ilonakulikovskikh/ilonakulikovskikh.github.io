@@ -53,6 +53,11 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
         Publications
     </div>
     </h4> 
+    <h4>
+    <div style="font-size:100%; ">
+        Papers in peer-reviewed journals in English
+    </div>
+    </h4> 
 </body> 
 
 </html> 
