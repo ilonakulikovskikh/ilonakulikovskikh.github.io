@@ -38,7 +38,7 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
         h4:after { 
             content: ""; 
             flex: 1 1; 
-            border-bottom: 2px solid #000; 
+            border-bottom: 5px solid #0070bc; 
             margin: auto; 
         } 
         
@@ -51,7 +51,7 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
 </head> 
 
 <body> 
-    <h4>GeeksforGeeks</h4> 
+    <h4>Publications</h4> 
 </body> 
 
 </html> 
