@@ -68,6 +68,7 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 
 
     <h4>
+    <a name="publications"></a>
     <div style="font-size:150%; ">
         Publications
     </div>

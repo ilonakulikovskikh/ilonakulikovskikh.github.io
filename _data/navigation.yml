@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: <a href="publications"></a>
 
   - title: "CV"
     url: /files/cv_kulikovskikh_short.pdf
