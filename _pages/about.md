@@ -22,4 +22,4 @@ I am currently a postdoctoral research fellow at University of Zagreb and Ruđer
 </div>
 
 <HR WIDTH="50%" COLOR="#0070bc" SIZE="2"> <b>Publications</b>
-<h2 class="title">Who we are</h2>
+<div style='overflow:hidden; white-space:nowrap; color = "#0070bc"; size = "2";'>Blah blah<hr style='display:inline-block; width:50%;' /></div>
