@@ -23,4 +23,5 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
 
 <HR WIDTH="25%" COLOR="#0070bc" SIZE="2"> 
 
-<div style='overflow:hidden; white-space:nowrap; color = "#0070bc"; size = "2";'>Blah blah<hr style='display:inline-block; width:50%;' /></div>
+<div style="float: left">Some text</div>
+<hr style="clear: none; position: relative; top: 0.5em;">
