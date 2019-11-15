@@ -16,6 +16,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio_rus %}<p class="author__bio">{{ author.bio_rus }}</p>{% endif %}
     <!---
     <p class="author__position" style="font-size: 0.85em;">{{ author.position }}</p>
     <p class="author__employer1" style="font-size: 0.85em; margin-bottom: -1em; margin-top: -0.0em;">{{ author.employer1 }}</p>
@@ -33,6 +34,9 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>{{ author.location }}</li>
+      {% endif %}
+      {% if author.location_rus %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>{{ author.location_rus }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
