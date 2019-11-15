@@ -90,5 +90,4 @@ Journal of Physics: Conference Series. 1368. (accepted)<br>
 <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf">[pdf]</a><br>
 </span>
 
-Click <a href="#publications">here</a> to read chapter 4.
 
