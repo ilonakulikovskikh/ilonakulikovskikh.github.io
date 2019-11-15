@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+h1 span {
+  background: #f2f0e4;
+  padding: 0 20px;
+  Text-align : Center; 
+}
 
 <div style ="text-align: justify;">
 <span style ="color:gray; font-size:80%; ">
@@ -23,6 +28,4 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
 
 
 <div style="font-size:100%; ">Some text</div>
-<hr width="25%" style="border: none; border-bottom: 4px solid #0070bc; display: inline-block;">
-<hr class="hr-text" data-content="AND">
-<div style="font-size:100%; ">Some text</div>
+<hr width="15%" style="border: none; border-bottom: 4px solid #0070bc; display: inline-block;">
