@@ -22,9 +22,6 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
 </div>
 
 
-<div style="font-size:100%; ">Some text</div>
-<hr width="10%" style="border: none; border-bottom: 4px solid #0070bc; display: inline-block;">
-
 <html> 
 
 <head> 
