@@ -160,7 +160,7 @@ granted by Federal Institute for Industrial Property<br>
 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
 <span style="font-size: 95%; ">
-<b>In submission to journals and conferences</b><br>
+<b>Preprints</b><br>
 </span>
 <span style ="font-size: 85%; ">
 <span style="color:#0070bc">
