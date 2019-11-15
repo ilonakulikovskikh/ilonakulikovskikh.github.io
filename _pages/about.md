@@ -24,6 +24,6 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
 <HR WIDTH="25%" COLOR="#0070bc" SIZE="2"> 
 
 <font color="blue">
-<hr style="clear: none; position: relative; top: 0.0em; width: 150%; size: 1; border-color: #0070bc;">
+<hr style="clear: none; position: relative; top: 0.0em; width: 25%; height: 150%; border-color: #0070bc;">
 </font>
 <div style="font-size:100%; ">Some text</div>
