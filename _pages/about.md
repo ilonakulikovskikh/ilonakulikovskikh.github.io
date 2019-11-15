@@ -14,6 +14,10 @@ h1 span {
   Text-align : Center; 
 }
 
+<h1>
+  <span>TITLE</span>
+</h1>
+
 <div style ="text-align: justify;">
 <span style ="color:gray; font-size:80%; ">
 Machine learning, Bio-inspired computing, Behavioral science, Evolution of mind and cognitive functions, Machine cognition and communication, Human-centric artificial intelligence. 
