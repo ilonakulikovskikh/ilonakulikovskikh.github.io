@@ -66,6 +66,7 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 </span>
 </div>
 
+<a name="publications"></a>
 
     <h4>
     <a name="publications"></a>
@@ -88,3 +89,6 @@ Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). <br>
 Journal of Physics: Conference Series. 1368. (accepted)<br>
 <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf">[pdf]</a><br>
 </span>
+
+Click <a href="#publications">here</a> to read chapter 4.
+
