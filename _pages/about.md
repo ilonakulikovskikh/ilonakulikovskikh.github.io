@@ -24,4 +24,5 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
 
 <div style="font-size:100%; ">Some text</div>
 <hr width="25%" style="border: none; border-bottom: 4px solid #0070bc; display: inline-block;">
+<hr class="hr-text" data-content="AND">
 <div style="font-size:100%; ">Some text</div>
