@@ -22,3 +22,8 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
 </div>
 
 <HR WIDTH="25%" COLOR="#0070bc" SIZE="2"> 
+
+<font color="blue">
+<hr style="clear: none; position: relative; top: 0.0em; width: 25; size: 2;">
+</font>
+<div style="float: right">Some text</div>
