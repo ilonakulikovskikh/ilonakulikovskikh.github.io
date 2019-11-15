@@ -78,12 +78,13 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
         Papers in peer-reviewed journals in English
     </div>
     </h5> 
-    </body> 
-    <span style ="font-size:80%; ">
-    <b>An SGD-based meta-learner with "growing" descent</b>.<br>
-    Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). <br>
-    <span style="color:gray">
-    Journal of Physics: Conference Series. 1368. (accepted)<br>
-    <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf">[pdf]</a><br>
-    </span>
+</body> 
 </html> 
+    
+<span style ="font-size:80%; ">
+<b>An SGD-based meta-learner with "growing" descent</b>.<br>
+Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). <br>
+<span style="color:gray">
+Journal of Physics: Conference Series. 1368. (accepted)<br>
+<a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf">[pdf]</a><br>
+</span>
