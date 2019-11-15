@@ -44,6 +44,27 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
             width: 100px; 
             border-radius: 50%; 
         } 
+    </style>
+    
+    <style> 
+        h5 { 
+            display: flex; 
+            flex-direction: row; 
+        } 
+        
+        h4:before { 
+            width: 10%;
+            content: ""; 
+            flex: 1 1; 
+            border-bottom: 3px solid #0070bc; 
+            margin: auto; 
+        } 
+        
+        img { 
+            height: 100px; 
+            width: 100px; 
+            border-radius: 50%; 
+        } 
     </style> 
 </head> 
 
@@ -53,11 +74,11 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
         Publications
     </div>
     </h4> 
-    <h4>
+    <h5>
     <div style="font-size:100%; ">
         Papers in peer-reviewed journals in English
     </div>
-    </h4> 
+    </h5> 
 </body> 
 
 </html> 
