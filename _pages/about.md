@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 <div style ="text-align: justify;">
 <span style ="color:gray; font-size:80%; ">
 Machine learning, Bio-inspired computing, Behavioral science, Evolution of mind and cognitive functions, Machine cognition and communication, Human-centric artificial intelligence. 
@@ -21,3 +22,4 @@ I am currently a postdoctoral research fellow at University of Zagreb and Ruđer
 </div>
 
 <HR WIDTH="50%" COLOR="#0070bc" SIZE="2"> <b>Publications</b>
+<h2 class="title">Who we are</h2>
