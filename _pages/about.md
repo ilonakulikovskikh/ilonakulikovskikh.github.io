@@ -8,17 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-h1 span {
-  background: #f2f0e4;
-  padding: 0 20px;
-  Text-align : Center; 
-}
-
-<p>
-<h1>
-  <span>TITLE</span>
-</h1>
-</p>
 
 <div style ="text-align: justify;">
 <span style ="color:gray; font-size:80%; ">
@@ -35,3 +24,34 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
 
 <div style="font-size:100%; ">Some text</div>
 <hr width="10%" style="border: none; border-bottom: 4px solid #0070bc; display: inline-block;">
+
+<html> 
+
+<head> 
+    <style> 
+        h4 { 
+            display: flex; 
+            flex-direction: row; 
+        } 
+        
+        h4:before, 
+        h4:after { 
+            content: ""; 
+            flex: 1 1; 
+            border-bottom: 2px solid #000; 
+            margin: auto; 
+        } 
+        
+        img { 
+            height: 100px; 
+            width: 100px; 
+            border-radius: 50%; 
+        } 
+    </style> 
+</head> 
+
+<body> 
+    <h4>GeeksforGeeks</h4> 
+</body> 
+
+</html> 
