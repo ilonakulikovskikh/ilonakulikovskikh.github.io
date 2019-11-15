@@ -20,4 +20,4 @@ I am currently a postdoctoral research fellow at University of Zagreb and Ruđer
 </span>
 </div>
 
-<HR WIDTH="25%" COLOR="#6699FF" SIZE="6">
+<HR WIDTH="25%" COLOR="#0070bc" SIZE="4">
