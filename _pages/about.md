@@ -14,9 +14,11 @@ h1 span {
   Text-align : Center; 
 }
 
+<p>
 <h1>
   <span>TITLE</span>
 </h1>
+</p>
 
 <div style ="text-align: justify;">
 <span style ="color:gray; font-size:80%; ">
@@ -32,4 +34,4 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
 
 
 <div style="font-size:100%; ">Some text</div>
-<hr width="15%" style="border: none; border-bottom: 4px solid #0070bc; display: inline-block;">
+<hr width="10%" style="border: none; border-bottom: 4px solid #0070bc; display: inline-block;">
