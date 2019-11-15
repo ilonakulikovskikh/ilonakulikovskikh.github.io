@@ -25,4 +25,4 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
 <hr width="25%" size = "6" style="clear: none; position: relative; top: 0.0em; border: 2; border-color: #0070bc;">
 <div style="font-size:100%; ">Some text</div>
 
-<hr style="border: none; border-bottom: 4px solid #0070bc;">
+<hr width="25%" style="border: none; border-bottom: 4px solid #0070bc;">
