@@ -34,8 +34,7 @@ Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđe
             flex-direction: row; 
         } 
         
-        h4:before, 
-        h4:after { 
+        h4:before { 
             content: ""; 
             flex: 1 1; 
             border-bottom: 5px solid #0070bc; 
