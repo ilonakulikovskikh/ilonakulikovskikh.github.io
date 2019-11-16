@@ -27,6 +27,12 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
     <hr style="clear: none; position: relative; top: 0.5em; float:left; border-bottom: 3px solid #0070bc; width: 30%;"/>
 </p>
 
+<html><body><hr style="float: left; border-bottom: 3px solid #0070bc; width: 30%"/> My Text</body></html>
+
+<p style="float:left;">
+    fjdklsfjkd<hr style="float:left; border-bottom: 3px solid #0070bc; width: 30%;"/>
+</p>
+
 <h4>
 <a name="publications"></a>
 <div style="font-size:150%; ">
