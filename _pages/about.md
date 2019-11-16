@@ -35,15 +35,15 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 </div>
 
 <span style ="font-size:80%; ">
-<b>An SGD-based meta-learner with "growing" descent</b>.<br>
-Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). <br>
+<b>An SGD-based meta-learner with "growing" descent</b>.
+Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). 
 <span style="color:gray">
 Journal of Physics: Conference Series. 1368. (accepted)<br>
 <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf">[pdf]</a><br>
 
 <span style ="font-size:80%; ">
-<b>BioGD: Bio-inspired robust gradient descent</b>.<br>
-Kulikovskikh I., Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br>
+<b>BioGD: Bio-inspired robust gradient descent</b>.
+Kulikovskikh I., Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). 
 <span style="color:gray">
 PLoS ONE. 14(7): e0219004.<br>
 <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf">[pdf]</a><br>
