@@ -19,4 +19,49 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 </span>
 </div>
 
+<head> 
+    <style> 
+        h4 { 
+            display: flex; 
+            flex-direction: row; 
+        } 
+        
+        h4:before { 
+            width: 10%;
+            content: ""; 
+            flex: 1 1; 
+            border-bottom: 5px solid #0070bc; 
+            margin: auto; 
+        } 
+        
+        img { 
+            height: 100px; 
+            width: 100px; 
+            border-radius: 50%; 
+        } 
+    </style>
+</head> 
+ <head>    
+    <style> 
+        h5 { 
+            display: flex; 
+            flex-direction: row; 
+        } 
+        
+        h5:before { 
+            width: 10%;
+            content: ""; 
+            flex: 1 1; 
+            border-bottom: 3px solid #0070bc; 
+            margin: auto; 
+        } 
+        
+        img { 
+            height: 100px; 
+            width: 100px; 
+            border-radius: 50%; 
+        } 
+    </style> 
+</head> 
+
 
