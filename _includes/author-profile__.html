@@ -13,20 +13,38 @@
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
-
+  
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <!---
+    <p class="author__position" style="font-size: 0.85em;">{{ author.position }}</p>
+    <p class="author__employer1" style="font-size: 0.85em; margin-bottom: -1em; margin-top: -0.0em;">{{ author.employer1 }}</p>
+    <p class="author__employer2" style="font-size: 0.85em;">{{ author.employer2 }}</p>
+    -->
+    <!---
+    {% if author.bio %}<p class="author__bio"><font color="black">Postdoctoral Research Fellow</font> at University of Zagreb and Ruđer Bošković Institute</p>{% endif %}
+    -->
+    
+    <!---
+    {% if author.bio_rus %}<p class="author__bio"><font color="black">Associate Professor</font> at Samara University</p>{% endif %}
+    
+    {% if author.cv %}
+      <a href="{{ author.cv }}" style="font-size: 0.8em; text-decoration:none; margin-bottom: 1em;"><i class="fas fa-paperclip" aria-hidden="true"></i>&nbsp CV</a>
+    {% endif %}
+    {% if author.bio %}<p class="author__bio"></p>{% endif %}
+    -->
   </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
+    <!---
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
-      {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+    -->
+      {% if author.location_rus %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>{{ author.location_rus }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
