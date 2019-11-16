@@ -19,13 +19,6 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 </span>
 </div>
 
-
-
-        
-
-        
-
-
 <p style="float:left;">
     <hr style="float:left; border-bottom: 5px solid #0070bc; width: 10%; clear: none; position: relative; top: 1.0em;"/>
 </p>
@@ -43,6 +36,13 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
     Papers in peer-reviewed journals in English
 </div>
 </h4> 
+<span style ="font-size:80%; ">
+<b>An SGD-based meta-learner with "growing" descent</b>.<br>
+Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). <br>
+<span style="color:gray">
+Journal of Physics: Conference Series. 1368. (accepted)<br>
+<a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf">[pdf]</a><br>
+</span>
 
 
 
