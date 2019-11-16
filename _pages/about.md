@@ -20,7 +20,7 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 </div>
 
 <p style="float:left;">
-    <hr style="float:left; border-bottom: 5px solid #0070bc; width: 10%; clear: none; position: relative; top: 1.0em;"/>
+    <hr style="float:left; border-bottom: 5px solid #0070bc; width: 10%; clear: none; position: relative; top: 1.0em;"/>&nbsp;
 </p>
 
 <a name="publications"></a>
@@ -29,7 +29,7 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 </div>
 
 <p style="float:left;">
-    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 0.5em;"/>
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 0.5em;"/>&nbsp;
 </p>
 
 <div style="font-size:110%; color: #0070bc">
