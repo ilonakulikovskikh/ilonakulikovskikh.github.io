@@ -23,21 +23,19 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
     <hr style="float:left; border-bottom: 5px solid #0070bc; width: 10%; clear: none; position: relative; top: 1.0em;"/>
 </p>
 
-<h4>
 <a name="publications"></a>
-<div style="font-size:150%; ">
+<div style="font-size:150%; color: #0070bc">
     Publications
 </div>
-</h4> 
 
 <p style="float:left;">
     <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 0.5em;"/>
 </p>
-<h4>
-<div style="font-size:110%; ">
+
+<div style="font-size:110%; color: #0070bc">
     Papers in peer-reviewed journals in English
 </div>
-</h4> 
+
 <span style ="font-size:80%; ">
 <b>An SGD-based meta-learner with "growing" descent</b>.<br>
 Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). <br>
