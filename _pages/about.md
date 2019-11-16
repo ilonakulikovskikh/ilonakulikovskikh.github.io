@@ -24,7 +24,7 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 </p>
 <a name="publications"></a>
 <div style="font-size:110%; color: #0070bc">
-    Publications
+    &nbsp; Publications
 </div>
 
 <p style="float:left;">
