@@ -20,26 +20,11 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 </div>
 
 
-<style> 
-        h4 { 
-            display: flex; 
-            flex-direction: row; 
-        } 
         
-        h4:before { 
-            width: 10%;
-            content: ""; 
-            flex: 1 1; 
-            border-bottom: 5px solid #0070bc; 
-            margin: auto; 
-        } 
+<h4 style="display: flex; flex-direction: row;">Text</h4>
+<h4:before style="width: 10%; content: ""; flex: 1 1; border-bottom: 5px solid #0070bc; margin: auto;">Text</h4>
         
-        img { 
-            height: 100px; 
-            width: 100px; 
-            border-radius: 50%; 
-        } 
-</style>
+        
    
 <style> 
         h5 { 
@@ -55,11 +40,6 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
             margin: auto; 
         } 
         
-        img { 
-            height: 100px; 
-            width: 100px; 
-            border-radius: 50%; 
-        } 
 </style> 
 
 <a name="publications"></a>
