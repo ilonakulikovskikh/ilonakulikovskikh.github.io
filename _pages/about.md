@@ -20,11 +20,12 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 </div>
 
 
+<div style='overflow:hidden; white-space:nowrap;'>Blah blah<hr style='display:inline-block; border-bottom: 3px solid #0070bc; width:100%;' /></div>
+
         
 <h4 style="display: flex; flex-direction: row;">Text</h4>
-<h4:before style="width: 10%; content: ""; flex: 1 1; border-bottom: 5px solid #0070bc; margin: auto;">Text</h4>
-        
 
+    
 <a name="publications"></a>
 
 <h4>
