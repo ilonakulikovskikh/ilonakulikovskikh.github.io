@@ -20,13 +20,13 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 </div>
 
 
-<style> 
-        h4 { 
+
+h4 { 
             display: flex; 
             flex-direction: row; 
         } 
         
-        h4:before { 
+h4:before { 
             width: 10%;
             content: ""; 
             flex: 1 1; 
@@ -34,20 +34,20 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
             margin: auto; 
         } 
         
-        img { 
+img { 
             height: 100px; 
             width: 100px; 
             border-radius: 50%; 
         } 
-</style>
+
    
-<style> 
-        h5 { 
+
+h5 { 
             display: flex; 
             flex-direction: row; 
         } 
         
-        h5:before { 
+h5:before { 
             width: 10%;
             content: ""; 
             flex: 1 1; 
@@ -55,12 +55,11 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
             margin: auto; 
         } 
         
-        img { 
+img { 
             height: 100px; 
             width: 100px; 
             border-radius: 50%; 
-        } 
-</style> 
+        }  
 
 <a name="publications"></a>
 
