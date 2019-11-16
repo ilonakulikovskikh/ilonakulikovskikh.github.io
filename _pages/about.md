@@ -24,23 +24,6 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 <h4 style="display: flex; flex-direction: row;">Text</h4>
 <h4:before style="width: 10%; content: ""; flex: 1 1; border-bottom: 5px solid #0070bc; margin: auto;">Text</h4>
         
-        
-   
-<style> 
-        h5 { 
-            display: flex; 
-            flex-direction: row; 
-        } 
-        
-        h5:before { 
-            width: 10%;
-            content: ""; 
-            flex: 1 1; 
-            border-bottom: 3px solid #0070bc; 
-            margin: auto; 
-        } 
-        
-</style> 
 
 <a name="publications"></a>
 
@@ -50,11 +33,11 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
     Publications
 </div>
 </h4> 
-<h5>
+<h4>
 <div style="font-size:110%; ">
     Papers in peer-reviewed journals in English
 </div>
-</h5> 
+</h4> 
 
 
 
