@@ -19,8 +19,8 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 </span>
 </div>
 
-<head> 
-    <style> 
+
+<style> 
         h4 { 
             display: flex; 
             flex-direction: row; 
@@ -39,10 +39,9 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
             width: 100px; 
             border-radius: 50%; 
         } 
-    </style>
-</head> 
- <head>    
-    <style> 
+</style>
+   
+<style> 
         h5 { 
             display: flex; 
             flex-direction: row; 
@@ -61,7 +60,7 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
             width: 100px; 
             border-radius: 50%; 
         } 
-    </style> 
-</head> 
+</style> 
+
 
 
