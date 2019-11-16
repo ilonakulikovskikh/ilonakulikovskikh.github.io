@@ -2,6 +2,13 @@
 main:
   - title: "Publications"
     url: /#publications
+  - title: "Publications"
+  url: /#publications
+  
+  - title: "Publications"
+  url: /#publications
+  - title: "Publications"
+  url: /#publications
 
   - title: "CV"
     url: /files/cv_kulikovskikh_short.pdf
