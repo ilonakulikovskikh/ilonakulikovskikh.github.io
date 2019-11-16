@@ -13,6 +13,7 @@
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
+  
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     
@@ -25,12 +26,14 @@
     {% if author.bio %}<p class="author__bio"><font color="black">Postdoctoral Research Fellow</font> at University of Zagreb and Ruđer Bošković Institute</p>{% endif %}
     -->
     
+    <!---
     {% if author.bio_rus %}<p class="author__bio"><font color="black">Associate Professor</font> at Samara University</p>{% endif %}
     
     {% if author.cv %}
       <a href="{{ author.cv }}" style="font-size: 0.8em; text-decoration:none; margin-bottom: 1em;"><i class="fas fa-paperclip" aria-hidden="true"></i>&nbsp CV</a>
     {% endif %}
     {% if author.bio %}<p class="author__bio"></p>{% endif %}
+    -->
   </div>
 
 
