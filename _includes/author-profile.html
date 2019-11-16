@@ -21,18 +21,16 @@
     <p class="author__employer1" style="font-size: 0.85em; margin-bottom: -1em; margin-top: -0.0em;">{{ author.employer1 }}</p>
     <p class="author__employer2" style="font-size: 0.85em;">{{ author.employer2 }}</p>
     -->
-    <!---
-    {% if author.bio %}<p class="author__bio"><font color="black">Postdoctoral Research Fellow</font> at University of Zagreb and Ruđer Bošković Institute</p>{% endif %}
-    -->
     
-    <!---
+    {% if author.bio %}<p class="author__bio"><font color="black">Postdoctoral Research Fellow</font> at University of Zagreb and Ruđer Bošković Institute</p>{% endif %}
+    
     {% if author.bio_rus %}<p class="author__bio"><font color="black">Associate Professor</font> at Samara University</p>{% endif %}
     
     {% if author.cv %}
       <a href="{{ author.cv }}" style="font-size: 0.8em; text-decoration:none; margin-bottom: 1em;"><i class="fas fa-paperclip" aria-hidden="true"></i>&nbsp CV</a>
     {% endif %}
     {% if author.bio %}<p class="author__bio"></p>{% endif %}
-    -->
+    
   </div>
 
   <div class="author__urls-wrapper">
