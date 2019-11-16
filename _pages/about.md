@@ -22,7 +22,7 @@ I am an Associate Professor at Samara University where I lead multidisciplinary 
 <p style="float:left;">
     <hr style="float:left; border-bottom: 5px solid #0070bc; width: 10%; clear: none; position: relative; top: 1.25em;"/>
 </p>
-&nbsp;
+
 <a name="publications"></a>
 <div style="font-size:110%; color: #0070bc">
     Publications
@@ -43,12 +43,12 @@ Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). <br>
 Journal of Physics: Conference Series. 1368. (accepted)<br>
 <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf">[pdf]</a><br>
 
+<span style ="font-size:80%; ">
 <b>BioGD: Bio-inspired robust gradient descent</b>.<br>
 Kulikovskikh I., Prokhorov S., Lipić T., Legović T., Šmuc T. (2019). <br>
 <span style="color:gray">
 PLoS ONE. 14(7): e0219004.<br>
 <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf">[pdf]</a><br>
-</span>
 
 
 
