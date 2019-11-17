@@ -27,6 +27,9 @@ BioGD: Bio-inspired robust gradient descent.<br>
 <span style="color:gray">
 PLoS ONE. 14(7): e0219004.<br>
 [[pdf](https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf)]<br>
+
+
+
 <span style="color:#0070bc">
 Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting.<br>
 <span style="color:#494e52">
