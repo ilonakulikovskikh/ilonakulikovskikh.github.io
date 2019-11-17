@@ -62,7 +62,7 @@ Kulikovskikh I.M. (2018).
 <span style="color:gray">
 Automation and Remote Control. 79(8): 1458-1473.<br>
 <span style="color:#494e52">
-<b>Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood <b>.
+<b>Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood</b>.
 Kulikovskikh I.M., Prokhorov S.A. (2017). 
 <span style="color:gray">
 Procedia Engineering. 201: 779–788.<br>
