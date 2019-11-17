@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Bio-centered AI Lab"
+title                    : "Bio-Centered AI Lab"
 title_separator          : "-"
 name                     : &name "Ilona Kulikovskikh"
 description              : &description "personal description"
