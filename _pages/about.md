@@ -17,7 +17,7 @@ Machine learning, Bio-inspired computing, Behavioral science, Evolution of mind 
 <span style ="font-size:80%; ">
 I am an Associate Professor at Samara University where I lead multidisciplinary projects at the intersection of electrical and knowledge models to create more robust, explainable, and interpretable  machine learning models by  moving towards <b>B</b>io-<b>C</b>entered <b>A</b>rtificial <b>I</b>ntelligence. In contrast to Human-Centered Artificial Intelligence, our approach to designing, development, and deployment of learning systems directly promotes <strong>enactivism</strong> where cognition arises through a dynamic interaction between an acting organism and its environment. Instead of passively receiving information from their environments and, then, translating them into internal representations, bio-centered learning systems participate in the generation of new knowledge by engaging in both transformational and informational interactions.<br><br>
 
-<p ><span style='color:red;'>B</span>io-<span style='color:red;'>C</span>entered</p>
+<p ><span style='color:#0070bc;'>B</span>io-<span style='color:r#0070bc;'>C</span>entered</p>
 
 The primary focus of our <b>BCAI Lab</b> is on modeling mechanisms of evolution of mind and cognitive functions with regards to the Desirable Difficulties  framework in individual and group learning scenarios. This allows for <strong>training on less data</strong> with the right amount of difficulty for <strong>faster learning</strong>. Currently, I am a postdoctoral research fellow at University of Zagreb and Ruđer Bošković Institute where we develop bio-centered artificial intelligence in terms of ecological models and networks.  
 </span>
