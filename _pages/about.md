@@ -49,7 +49,54 @@ Kulikovskikh I., Prokhorov S., Lipić T., Legović T., Šmuc T. (2019).
 <span style="color:gray">
 PLoS ONE. 14(7): e0219004.<br>
 <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019_1.pdf">[pdf]</a><br>
-
+<span style="color:#0070bc">
+<b>Psychological perspectives on implicit regularization: A model of retrieval-induced forgetting</b>.
+<span style="color:#494e52">
+Kulikovskikh I.M., Prokhorov S.A. (2018). 
+<span style="color:gray">
+Journal of Physics: Conference Series. 1096(1): 012079<br>
+<a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2018.pdf">[pdf]</a><br>
+<span style="color:#0070bc">
+<b>Meixner nonorthogonal filters</b>.
+<span style="color:#494e52">
+Kulikovskikh I.M. (2018). 
+<span style="color:gray">
+Automation and Remote Control. 79(8): 1458-1473.<br>
+<span style="color:#0070bc">
+<b>Minimizing the effects of floor and ceiling to improve the convergence of loglikelihood <b>.
+<span style="color:#494e52">
+Kulikovskikh I.M., Prokhorov S.A. (2017). 
+<span style="color:gray">
+Procedia Engineering. 201: 779–788.<br>
+<a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2017_1.pdf">[pdf]</a><br>
+<span style="color:#0070bc">
+<b>Cognitive validation maps for early occupancy detection in environmental sensing</b>.
+<span style="color:#494e52">
+Kulikovskikh I.M. (2017). <br>
+<span style="color:gray">
+Engineering Applications of Artificial Intelligence. 65: 330-335.<br>
+<a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2017_2.pdf">[pdf]</a><br>
+<span style="color:#0070bc">
+<b>Promoting collaborative learning through regulation of guessing in clickers.</b>
+<span style="color:#494e52">
+Kulikovskikh I.M., Prokhorov S.A., Suchkova S.A. (2017). 
+<span style="color:gray">
+Computers in Human Behavior. 75: 81-91.<br>
+<a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2017.pdf">[pdf]</a><br>
+<span style="color:#0070bc">
+<b>Pole position problem for Meixner filters.</b>
+<span style="color:#494e52">
+Prokhorov S.A., Kulikovskikh I.M. (2016).
+<span style="color:gray">
+Signal Processing. 120: 8-12.<br>
+<a href="https://ilonakulikovskikh.github.io/files/prokhorov2016.pdf">[pdf]</a><br>
+<span style="color:#0070bc">
+<b>Unique condition for generalized  Laguerre functions to solve pole position problem. </b>
+<span style="color:#494e52">
+Prokhorov S.A., Kulikovskikh I.M. (2015).
+<span style="color:gray">
+Signal Processing. 108: 25-29. <br>
+<a href="https://ilonakulikovskikh.github.io/files/prokhorov2015.pdf">[pdf]</a><br>
 
 
 
