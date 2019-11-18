@@ -72,7 +72,7 @@ Procedia Engineering. 201: 779–788.<br>
 <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2017_1.pdf">[pdf]</a><br>
 <span style="color:#494e52">
 <b>Cognitive validation maps for early occupancy detection in environmental sensing</b>.
-Kulikovskikh I.M. (2017). <br>
+Kulikovskikh I.M. (2017). 
 <span style="color:gray">
 Engineering Applications of Artificial Intelligence. 65: 330-335.<br>
 <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2017_2.pdf">[pdf]</a><br>
@@ -101,6 +101,7 @@ Signal Processing. 108: 25-29. <br>
 <p style="float:left;">
     <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.45em;"/>
 </p>
+
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Papers in peer-reviewed conference proceedings in English
 </div>
