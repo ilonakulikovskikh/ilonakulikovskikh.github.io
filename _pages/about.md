@@ -135,7 +135,7 @@ Prokhorov S.A., Kulikovskikh I.M. (2015).
 In: Proceedings of the 7th Computer Science and Electronic
 Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<br>
 <a href="https://ilonakulikovskikh.github.io/files/prokhorov2015_1.pdf">[pdf]</a>
-<a href="https://ilonakulikovskikh.github.io/files/talk_prokhorov2015_1.pdf">[pdf]</a><br>
+<a href="https://ilonakulikovskikh.github.io/files/talk_prokhorov2015_1.pdf">[talk]</a><br>
  
  <p style="float:left;">
      <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.45em;"/>
