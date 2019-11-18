@@ -99,12 +99,12 @@ Signal Processing. 108: 25-29. <br>
 
 
 <p style="float:left;">
-    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.45em;"/>
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
 </p>
 
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Papers in peer-reviewed conference proceedings in English
-</div><br>
+</div>
 
 <span style ="font-size:80%; ">
 <span style="color:#494e52">
@@ -139,7 +139,7 @@ Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<
 <a href="https://ilonakulikovskikh.github.io/files/talk_prokhorov2015_1.pdf">[talk]</a><br>
  
  <p style="float:left;">
-     <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.45em;"/>
+     <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
  </p>
  <div style="font-size:90%; color: #0070bc;">
  &nbsp; Papers in peer-reviewed conference proceedings in English
