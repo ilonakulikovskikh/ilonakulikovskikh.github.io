@@ -10,11 +10,11 @@ redirect_from:
 
 
 <div style ="text-align: justify;">
-<span style ="color:gray; font-size:80%; ">
+<span style ="color:gray; font-size:90%; ">
 Machine learning, Bio-inspired computing, Behavioral science, Evolution of mind and cognitive functions, Embodied cognition, Machine cognition and communication, Human-centered artificial intelligence, <strong>Bio-centered artificial intelligence</strong>. 
 </span><br><br>
 
-<span style ="font-size:80%; ">
+<span style ="font-size:90%; ">
 I am an Associate Professor at Samara University where I lead multidisciplinary projects at the intersection of electrical and knowledge models to create more robust, explainable, and interpretable  machine learning models by  moving towards <b>B</b>io-<b>C</b>entered <b>A</b>rtificial <b>I</b>ntelligence. In comparison to Human-Centered Artificial Intelligence, our approach to designing, development, and deployment of learning systems directly promotes <strong>enactivism</strong> where cognition arises through a dynamic interaction between an acting organism and its environment. Instead of passively receiving information from their environments and, then, translating them into internal representations, bio-centered learning systems participate in the generation of new knowledge by engaging in both transformational and informational interactions.<br><br>
 
 The primary focus of our <b>BCAIL</b> research group is on modeling mechanisms of evolution of mind and cognitive functions with regards to the Desirable Difficulties  framework in individual and group learning scenarios. The framework suggests that learning tasks must require a considerable but desirable amount of effort while being accomplishable to improve long-term performance. 
