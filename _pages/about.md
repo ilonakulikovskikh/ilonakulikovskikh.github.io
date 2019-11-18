@@ -94,7 +94,7 @@ Signal Processing. 108: 25-29. <br>
 <a href="https://ilonakulikovskikh.github.io/files/prokhorov2015.pdf">[pdf]</a><br>
 
 <p style="float:left;">
-    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 0.25em;"/>
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.25em;"/>
 </p>
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Papers in peer-reviewed conference proceedings in English
