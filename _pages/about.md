@@ -102,7 +102,7 @@ Signal Processing. 108: 25-29. <br>
 </p>
 
 <div style="font-size:90%; color: #0070bc;">
-&nbsp; Papers in peer-reviewed conference proceedings in English
+&nbsp; Papers in peer-reviewed conference proceedings in English<br>
 </div>
 
 <span style ="font-size:80%; ">
