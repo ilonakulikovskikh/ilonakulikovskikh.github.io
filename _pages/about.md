@@ -98,12 +98,12 @@ Signal Processing. 108: 25-29. <br>
 
 
 <p style="float:left;">
-    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 0.85em;"/>
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
 </p>
 
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Papers in peer-reviewed conference proceedings in English
-</div><br>
+</div><
 
 <span style ="font-size:80%; ">
 <span style="color:#494e52">
