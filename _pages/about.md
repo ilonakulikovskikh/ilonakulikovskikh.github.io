@@ -95,9 +95,20 @@ Signal Processing. 108: 25-29. <br>
 <a href="https://ilonakulikovskikh.github.io/files/prokhorov2015.pdf">[pdf]</a><br>
 
 <p style="float:left;">
-    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.35em;"/>
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.45em;"/>
 </p>
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Papers in peer-reviewed conference proceedings in English
 </div>
 
+<span style ="font-size:80%; ">
+<span style="color:#494e52">
+<b> Fuzzy learning performance assessment based on decision
+making under internal uncertainty.</b>.
+Prokhorov S.A., Kulikovskikh I.M. (2015). 
+<span style="color:gray">
+In: Proceedings of the 7th Computer Science and Electronic
+Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<br>
+<a href="https://ilonakulikovskikh.github.io/files/prokhorov2015_1.pdf">[pdf]</a><br>
+<a href="https://ilonakulikovskikh.github.io/files/talk_prokhorov2015_1.pdf">[pdf]</a><br>
+ 
