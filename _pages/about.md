@@ -100,8 +100,28 @@ Signal Processing. 108: 25-29. <br>
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Papers in peer-reviewed conference proceedings in English
 </div>
-
 <span style ="font-size:80%; ">
+<span style="color:#494e52">
+<b> Growing descent of stochastic gradient with
+the generalized logistic map.</b>.
+Kulikovskikh I., Prokhorov S., Legovic T., Šmuc T. (2019). 
+<span style="color:gray">
+In: Proceedings of the 5th Conference on Information Technology and
+Nanotechnology (ITNT-2019). May 21-24, 2019. Samara, Russia. pp. 338-344.<br>
+<span style="color:#494e52">
+<b> A method of implicit regularization based on the phenomena of
+retrieval-induced forgetting (RIF). </b>.
+Kulikovskikh I.M., Prokhorov S.A. (2018). 
+<span style="color:gray">
+In: Proceedings of the 4th Conference on Information Technology and
+Nanotechnology (ITNT-2019). May 21-24, 2018. Samara, Russia. pp. 2132-2137.<br>
+<span style="color:#494e52">
+<b> Modifications of log-likelihood to measure floor and ceiling
+effects.</b>.
+Kulikovskikh I.M., Prokhorov S.A. (2017). 
+<span style="color:gray">
+In: Proceedings of the 3rd Conference on Information Technology and Nanotechnology
+(ITNT-2017). Apr 25-27, 2017. Samara, Russia. pp. 1849-1853.<br>
 <span style="color:#494e52">
 <b> Fuzzy learning performance assessment based on decision
 making under internal uncertainty.</b>.
@@ -112,3 +132,10 @@ Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<
 <a href="https://ilonakulikovskikh.github.io/files/prokhorov2015_1.pdf">[pdf]</a><br>
 <a href="https://ilonakulikovskikh.github.io/files/talk_prokhorov2015_1.pdf">[pdf]</a><br>
  
+ <p style="float:left;">
+     <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.45em;"/>
+ </p>
+ <div style="font-size:90%; color: #0070bc;">
+ &nbsp; Papers in peer-reviewed conference proceedings in English
+ </div>
+ <span style ="font-size:80%; ">
