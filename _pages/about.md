@@ -80,6 +80,7 @@ Kulikovskikh I.M., Prokhorov S.A., Suchkova S.A. (2017).
 <span style="color:gray">
 Computers in Human Behavior. 75: 81-91.<br>
 <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2017.pdf">[pdf]</a><br>
+<a href="https://ilonakulikovskikh.github.io/files/materials_kulikovskikh2017.pdf">[materials]</a><br>
 <span style="color:#494e52">
 <b>Pole position problem for Meixner filters.</b>
 Prokhorov S.A., Kulikovskikh I.M. (2016).
@@ -94,7 +95,7 @@ Signal Processing. 108: 25-29. <br>
 <a href="https://ilonakulikovskikh.github.io/files/prokhorov2015.pdf">[pdf]</a><br>
 
 <p style="float:left;">
-    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.25em;"/>
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.35em;"/>
 </p>
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Papers in peer-reviewed conference proceedings in English
