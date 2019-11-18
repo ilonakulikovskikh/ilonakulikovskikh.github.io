@@ -81,7 +81,7 @@ Engineering Applications of Artificial Intelligence. 65: 330-335.<br>
 Kulikovskikh I.M., Prokhorov S.A., Suchkova S.A. (2017). 
 <span style="color:gray">
 Computers in Human Behavior. 75: 81-91.<br>
-<a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2017.pdf">[pdf]</a><br>
+<a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2017.pdf">[pdf]</a>
 <a href="https://ilonakulikovskikh.github.io/files/materials_kulikovskikh2017.pdf">[materials]</a><br>
 <span style="color:#494e52">
 <b>Pole position problem for Meixner filters.</b>
@@ -134,7 +134,7 @@ Prokhorov S.A., Kulikovskikh I.M. (2015).
 <span style="color:gray">
 In: Proceedings of the 7th Computer Science and Electronic
 Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<br>
-<a href="https://ilonakulikovskikh.github.io/files/prokhorov2015_1.pdf">[pdf]</a><br>
+<a href="https://ilonakulikovskikh.github.io/files/prokhorov2015_1.pdf">[pdf]</a>
 <a href="https://ilonakulikovskikh.github.io/files/talk_prokhorov2015_1.pdf">[pdf]</a><br>
  
  <p style="float:left;">
