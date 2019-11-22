@@ -37,7 +37,10 @@ This allows for <strong>training on less data</strong> with the right amount of 
 </p>
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Papers in peer-reviewed journals in English
-</div><br>
+</div>
+<p id="double-spaced" style="line-height: 25%;">
+<br>
+</p>
 
 <span style ="font-size:80%; ">
 <span style="color:#494e52">
@@ -104,7 +107,7 @@ Signal Processing. 108: 25-29. <br>
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Papers in peer-reviewed conference proceedings in English
 </div>
-<p id="double-spaced" style="line-height: 50%;">
+<p id="double-spaced" style="line-height: 25%;">
 <br>
 </p>
 
@@ -145,6 +148,9 @@ Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<
  </p>
  <div style="font-size:90%; color: #0070bc;">
  &nbsp; Abstracts in peer-reviewed conference proceedings in English
- </div><br>
+ </div>
+ <p id="double-spaced" style="line-height: 25%;">
+ <br>
+ </p>
  
  <span style ="font-size:80%; ">
