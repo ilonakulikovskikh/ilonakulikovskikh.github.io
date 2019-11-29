@@ -159,7 +159,7 @@ Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<
 Kulikovskikh I., Šmuc T. (2019)
 <span style="color:gray">
  22nd Conference on Discovery Science (DS 2019). Oct 28-30, 2019. Split, Croatia.<br>
- <a href="https://ilonakulikovskikh.github.io/files/talk_kulikovskikh2019_2.pdf">[abstract]</a>
+ <a href="https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019_2.pdf">[abstract]</a>
 <a href="https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019_2.pdf">[poster]</a>
 <a href="https://prezi.com/view/ivikvBr4IXjZAlXW4QoX/">[talk]</a><br>
  <span style="color:#494e52">
@@ -167,7 +167,7 @@ Kulikovskikh I., Šmuc T. (2019)
 Kulikovskikh I., Šmuc T. (2019)
  <span style="color:gray">
  4th Workshop on Data Science (IWDS 2019). Oct 15, 2019. Zagreb, Croatia.<br>
- <a href="https://ilonakulikovskikh.github.io/files/talk_kulikovskikh2019.pdf">[abstract]</a>
+ <a href="https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019.pdf">[abstract]</a>
  <a href="https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019.pdf">[poster]</a><br>
  <span style="color:#494e52">
   <b> Robust machine learning inspired by the models of population dynamics</b>.
@@ -182,7 +182,7 @@ equation</b>.
 Kulikovskikh I. (2018)
   <span style="color:gray">
 Seminar on Data Science. Nov 8, 2018. Laboratory for Machine Learning and Knowledge
-Representation, Ruer Boškovic Institute, Zagreb, Croatia.<br>
+Representation, Ruđer Bošković Institute, Zagreb, Croatia.<br>
 <span style="color:#494e52">
 <b> Implicit regularization of regression models based on cognitive validation maps</b>.
 Kulikovskikh I. (2018)
