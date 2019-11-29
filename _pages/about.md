@@ -260,7 +260,7 @@ Samara: Samara Scientific Center of the Russian Academy of Sciences, pp. 347-360
 <b>Regularizing orthogonal models of probabilistic characteristics by validating their basic properties</b>.
 Prokhorov S.A., Kulikovskikh I.M. (2018).
 <span style="color:gray">
-Software \& Systems. 31(1): 99-101. [in Russian]<br>
+Software & Systems. 31(1): 99-101. [in Russian]<br>
 <span style="color:#494e52">
 <b>Reducing the complexity of the model of individual
 and group adaptive testing with multiple choice based on a fuzzy cognitive map</b>.
@@ -271,7 +271,7 @@ Software systems and computational methods. 4: 15-26. [in Russian]<br>
 <b>Improving interpretability of regression models by building a tree-step cognition model.</b>.
 Kulikovskikh I.M. (2017).
 <span style="color:gray">
-Software \& Systems. 30(4): 601-608. [in Russian]<br>
+Software & Systems. 30(4): 601-608. [in Russian]<br>
 <span style="color:#494e52">
 <b>An approach to feature extraction to detect occupancy in buildings using ecological factors</b>.
 Kulikovskikh I.M. (2016).
@@ -301,12 +301,12 @@ Journal of Radio Electronics. 4: 11. [in Russian]<br>
 <b>An efficient implementation of the estimates of Fourier coefficients with limited computational resources</b>.
 Prokhorov S.A., Kulikovskikh I.M. (2015).
 <span style="color:gray">
-Software \& Systems. 3: 113-118. [in Russian]<br>
+Software & Systems. 3: 113-118. [in Russian]<br>
 <span style="color:#494e52">
 <b>Building software systems with objects interaction diagram</b>.
 Prokhorov S.A., Kulikovskikh I.M. (2012).
 <span style="color:gray">
-Software \& Systems. 3: 5-8. [in Russian]<br>
+Software & Systems. 3: 5-8. [in Russian]<br>
 <span style="color:#494e52">
 <b>Numerical-analytical approach to computing integrals at constructing orthogonal models</b>.
 Prokhorov S.A., Kulikovskikh I.M. (2009).
