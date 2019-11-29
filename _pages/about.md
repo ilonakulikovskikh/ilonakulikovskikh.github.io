@@ -246,7 +246,7 @@ In Prokhorov S.A. (ed.) Applied analysis of stochastic processes.
 Samara: Samara Scientific Center of the Russian Academy of Sciences, pp. 347-360. [in Russian]<br>
 
 <p style="float:left;">
-    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 1.25em;"/>
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.75em;"/>
 </p>
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Papers in peer-reviewed journals in Russian
