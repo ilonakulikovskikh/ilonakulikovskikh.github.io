@@ -268,7 +268,7 @@ Kulikovskikh I.M., Prokhorov S.A. (2018).
 <span style="color:gray">
 Software systems and computational methods. 4: 15-26. [in Russian]<br>
 <span style="color:#494e52">
-<b>Improving interpretability of regression models by building a tree-step cognition model.</b>.
+<b>Improving interpretability of regression models by building a tree-step cognition model</b>.
 Kulikovskikh I.M. (2017).
 <span style="color:gray">
 Software & Systems. 30(4): 601-608. [in Russian]<br>
