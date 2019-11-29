@@ -189,7 +189,7 @@ Kulikovskikh I. (2018).
   <span style="color:gray">
 Keynote lecture. April 16, 2018. International Conference PIT 2018, Samara, Russia.<br>
  <span style="color:#494e52">
- <b> Implicit regularization of regression models.</b>.
+ <b> Implicit regularization of regression models</b>.
  Kulikovskikh I. (2017).
  <span style="color:gray">
  Seminar on Problems in Mathematics.
@@ -239,7 +239,7 @@ Samara: Insoma-press, 2013. 200 p. [in Russian]<br>
 <span style="color:gray">
 Samara: Samara Branch of Russian Academy of Sciences, 2008. 301 p. [in Russian]<br>
 <span style="color:#494e52">
-<b> Algorithms and software implementation for correlation-spectral analysis with Jacobi elliptic functions.</b>. 
+<b> Algorithms and software implementation for correlation-spectral analysis with Jacobi elliptic functions</b>. 
  Prokhorov S.A, Kulikovskikh I.M. (2013).
 <span style="color:gray">
 In Prokhorov S.A. (ed.) Applied analysis of stochastic processes.
