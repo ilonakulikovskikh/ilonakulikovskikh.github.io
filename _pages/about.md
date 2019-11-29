@@ -11,7 +11,7 @@ redirect_from:
 
 <div style ="text-align: justify;">
 <span style ="color:gray; font-size:85%; ">
-Machine learning, Bio-inspired computing, Behavioral science, Evolution of mind and cognitive functions, Embodied cognition, Machine cognition and communication, Human-centered artificial intelligence, <strong>Bio-centered artificial intelligence</strong>. 
+Machine learning, Bio-inspired computing, Behavioral science, Evolution of mind and cognitive functions, Embodied cognition, Machine cognition and communication, <strong>Bio-centered artificial intelligence</strong>. 
 </span><br><br>
 
 <span style ="font-size:85%; ">
@@ -155,3 +155,4 @@ Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<
  
  <span style ="font-size:80%; ">
  Kulikovskikh I., Šmuc T. Machines in a classroom: Towards human-like active learning. 22nd Conference on Discovery Science (DS 2019). Oct 28-30, 2019. Split, Croatia.
+
