@@ -147,7 +147,7 @@ Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<
      <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
  </p>
  <div style="font-size:90%; color: #0070bc;">
- &nbsp; Abstracts in peer-reviewed conference proceedings in English
+ &nbsp; Presentations in English
  </div>
  <p id="short-spaced" style="line-height: 5%;">
  <br>
@@ -194,5 +194,10 @@ Keynote lecture. April 16, 2018. International Conference PIT 2018, Samara, Russ
  <span style="color:gray">
  Seminar on Problems in Mathematics.
 December 8, 2017. Department of Mathematics, Samara University, Samara, Russia.<br>
+ <span style="color:#494e52">
+ <b> Some lightweight algorithms for scientific computing in mobile technologies</b>.
+ Kulikovskikh I.M., Prokhorov S.A. (2013).
+ <span style="color:gray">
+ 8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
 
