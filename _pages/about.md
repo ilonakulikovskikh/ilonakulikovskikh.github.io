@@ -27,7 +27,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
 </p>
 <a name="publications"></a>
 <div style="font-size:110%; color: #0070bc">
-    &nbsp; Publications
+    &nbsp; Selected publications
 </div>
 
 
@@ -154,3 +154,4 @@ Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<
  </p>
  
  <span style ="font-size:80%; ">
+ Kulikovskikh I., Šmuc T. Machines in a classroom: Towards human-like active learning. 22nd Conference on Discovery Science (DS 2019). Oct 28-30, 2019. Split, Croatia.
