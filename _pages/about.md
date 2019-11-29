@@ -240,7 +240,85 @@ Samara: Insoma-press, 2013. 200 p. [in Russian]<br>
 Samara: Samara Branch of Russian Academy of Sciences, 2008. 301 p. [in Russian]<br>
 <span style="color:#494e52">
 <b> Algorithms and software implementation for correlation-spectral analysis with Jacobi elliptic functions</b>. 
- Prokhorov S.A, Kulikovskikh I.M. (2013).
+ Kulikovskikh I.M. (2007).
 <span style="color:gray">
 In Prokhorov S.A. (ed.) Applied analysis of stochastic processes.
 Samara: Samara Scientific Center of the Russian Academy of Sciences, pp. 347-360. [in Russian]<br>
+
+<p style="float:left;">
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 0.85em;"/>
+</p>
+<div style="font-size:90%; color: #0070bc;">
+&nbsp; Papers in peer-reviewed journals in Russian
+</div>
+<p id="short-spaced" style="line-height: 5%;">
+<br>
+</p>
+
+<span style ="font-size:80%; ">
+<span style="color:#494e52">
+<b>Regularizing orthogonal models of probabilistic characteristics by validating their basic properties</b>.
+Prokhorov S.A., Kulikovskikh I.M. (2018).
+<span style="color:gray">
+Software \& Systems. 31(1): 99-101. [in Russian]<br>
+<span style="color:#494e52">
+<b>Reducing the complexity of the model of individual
+and group adaptive testing with multiple choice based on a fuzzy cognitive map</b>.
+Kulikovskikh I.M., Prokhorov S.A. (2018).
+<span style="color:gray">
+Software systems and computational methods. 4: 15-26. [in Russian]<br>
+<span style="color:#494e52">
+<b>Improving interpretability of regression models by building a tree-step cognition model.</b>.
+Kulikovskikh I.M. (2017).
+<span style="color:gray">
+Software \& Systems. 30(4): 601-608. [in Russian]<br>
+<span style="color:#494e52">
+<b>An approach to feature extraction to detect occupancy in buildings using ecological factors</b>.
+Kulikovskikh I.M. (2016).
+<span style="color:gray">
+Izvestia of Samara Scientific Center of the Russian Academy of Sciences. 18(4-4): 754-759. [in Russian]<br>
+<span style="color:#494e52">
+<b>Complex system for collaborative learning based on fuzzy models to describe systems behavior with partial knowledge</b>.
+Kulikovskikh I.M., Prokhorov S.A., Suchkova S.A., Matytsin E.V. (2016).
+<span style="color:gray">
+Izvestia of Samara Scientific Center of the Russian Academy of Sciences. 18(4-4): 760-765. [in Russian]<br>
+<span style="color:#494e52">
+<b>Computing coefficients of nonorthogonal Meixner filters with GNU Octave.</b>.
+Kulikovskikh I.M. (2016).
+<span style="color:gray">
+Journal of Radio Electronics. 6: 8. [in Russian]<br>
+<span style="color:#494e52">
+<b>Diagnostic tests clustering in English prepositions learning according to Bloom’s taxonomy</b>.
+Prokhorov S.A., Suchkova S.A., Kulikovskikh I.M. (2015).
+<span style="color:gray">
+Izvestia of Samara Scientific Center of the Russian Academy of Sciences. 17(2-5): 1097-1103. [in Russian]<br>
+<span style="color:#494e52">
+<b>Optimality condition for Meixner filters</b>.
+Prokhorov S.A., Suchkova S.A., Kulikovskikh I.M. (2015).
+<span style="color:gray">
+Journal of Radio Electronics. 4: 11. [in Russian]<br>
+<span style="color:#494e52">
+<b>An efficient implementation of the estimates of Fourier coefficients with limited computational resources</b>.
+Prokhorov S.A., Kulikovskikh I.M. (2015).
+<span style="color:gray">
+Software \& Systems. 3: 113-118. [in Russian]<br>
+<span style="color:#494e52">
+<b>Building software systems with objects interaction diagram</b>.
+Prokhorov S.A., Kulikovskikh I.M. (2012).
+<span style="color:gray">
+Software \& Systems. 3: 5-8. [in Russian]<br>
+<span style="color:#494e52">
+<b>Numerical-analytical approach to computing integrals at constructing orthogonal models</b>.
+Prokhorov S.A., Kulikovskikh I.M. (2009).
+<span style="color:gray">
+Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(19): 140-146. [in Russian]<br>
+<span style="color:#494e52">
+<b>Approximating correlation and power spectral density models with Sonin-Laguerre orthogonal functions</b>.
+Prokhorov S.A., Kulikovskikh I.M. (2008).
+<span style="color:gray">
+Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(17): 185-191. [in Russian]<br>
+<span style="color:#494e52">
+<b>Frequency characteristics of Sonin-Laguerre orthogonal functions</b>.
+Prokhorov S.A., Kulikovskikh I.M. (2007).
+<span style="color:gray">
+Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(15): 123-127. [in Russian]<br>
