@@ -204,7 +204,7 @@ December 8, 2017. Department of Mathematics, Samara University, Samara, Russia.<
      <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
  </p>
  <div style="font-size:90%; color: #0070bc;">
- &nbsp; Book in Russian
+ &nbsp; Books in Russian
  </div>
  <p id="short-spaced" style="line-height: 5%;">
  <br>
@@ -216,24 +216,29 @@ December 8, 2017. Department of Mathematics, Samara University, Samara, Russia.<
  Prokhorov S.A, Kulikovskikh I.M. (2019).
 <span style="color:gray">
 Samara: Insoma-press, 2019. 254 p. [in Russian]<br>
+<span style="color:#494e52">
  <b> Numerical methods, algorithms, and software implementation
 for computational and natural experiments</b>. 
  Prokhorov S.A, Kulikovskikh I.M. (2019).
 <span style="color:gray">
 Samara: Insoma-press, 2019. 208 p. [in Russian]<br>
+<span style="color:#494e52">
  <b> Classical orthogonal functions and its applications. Part I. Orthogonal functions of exponential type: 2nd edition</b>. 
  Prokhorov S.A, Kulikovskikh I.M. (2019).
 <span style="color:gray">
 Samara: Insoma-press, 2019. 200 p. [in Russian]<br>
+<span style="color:#494e52">
  <b> Classical orthogonal functions and its applications. Part I. Orthogonal functions of exponential type</b>. 
  Prokhorov S.A, Kulikovskikh I.M. (2013).
 <span style="color:gray">
 Samara: Insoma-press, 2013. 200 p. [in Russian]<br>
 <a href="https://ilonakulikovskikh.github.io/files/book_kulikovskikh2013.pdf">[book]</a><br>
+<span style="color:#494e52">
 <b> Orthogonal models of correlation and spectral characteristics of stochastic processes</b>. 
  Prokhorov S.A, Kulikovskikh I.M. (2008).
 <span style="color:gray">
 Samara: Samara Branch of Russian Academy of Sciences, 2008. 301 p. [in Russian]<br>
+<span style="color:#494e52">
 <b> Algorithms and software implementation for correlation-spectral analysis with Jacobi elliptic functions.</b>. 
  Prokhorov S.A, Kulikovskikh I.M. (2013).
 <span style="color:gray">
