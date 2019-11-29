@@ -221,14 +221,21 @@ for computational and natural experiments</b>.
  Prokhorov S.A, Kulikovskikh I.M. (2019).
 <span style="color:gray">
 Samara: Insoma-press, 2019. 208 p. [in Russian]<br>
- <b> Classical orthogonal functions and its applications. Part I.
-Orthogonal functions of exponential type: 2nd edition</b>. 
+ <b> Classical orthogonal functions and its applications. Part I. Orthogonal functions of exponential type: 2nd edition</b>. 
  Prokhorov S.A, Kulikovskikh I.M. (2019).
 <span style="color:gray">
 Samara: Insoma-press, 2019. 200 p. [in Russian]<br>
- <b> Classical orthogonal functions and its applications. Part I.
-Orthogonal functions of exponential type</b>. 
+ <b> Classical orthogonal functions and its applications. Part I. Orthogonal functions of exponential type</b>. 
  Prokhorov S.A, Kulikovskikh I.M. (2013).
 <span style="color:gray">
 Samara: Insoma-press, 2013. 200 p. [in Russian]<br>
 <a href="https://ilonakulikovskikh.github.io/files/book_kulikovskikh2013.pdf">[book]</a><br>
+<b> Orthogonal models of correlation and spectral characteristics of stochastic processes</b>. 
+ Prokhorov S.A, Kulikovskikh I.M. (2008).
+<span style="color:gray">
+Samara: Samara Branch of Russian Academy of Sciences, 2008. 301 p. [in Russian]<br>
+<b> Algorithms and software implementation for correlation-spectral analysis with Jacobi elliptic functions.</b>. 
+ Prokhorov S.A, Kulikovskikh I.M. (2013).
+<span style="color:gray">
+In Prokhorov S.A. (ed.) Applied analysis of stochastic processes.
+Samara: Samara Scientific Center of the Russian Academy of Sciences, pp. 347-360. [in Russian]<br>
