@@ -156,7 +156,7 @@ Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<
  <span style ="font-size:80%; ">
  <span style="color:#494e52">
  <b> Machines in a classroom: Towards human-like active learning</b>. 
-Kulikovskikh I., Šmuc T. (2019)
+ Kulikovskikh I., Šmuc T. (2019).
 <span style="color:gray">
  22nd Conference on Discovery Science (DS 2019). Oct 28-30, 2019. Split, Croatia.<br>
  <a href="https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019_2.pdf">[abstract]</a>
@@ -164,14 +164,14 @@ Kulikovskikh I., Šmuc T. (2019)
 <a href="https://prezi.com/view/ivikvBr4IXjZAlXW4QoX/">[talk]</a><br>
  <span style="color:#494e52">
  <b> Bio-inspired robust machine learning</b>.
-Kulikovskikh I., Šmuc T. (2019)
+ Kulikovskikh I., Šmuc T. (2019).
  <span style="color:gray">
  4th Workshop on Data Science (IWDS 2019). Oct 15, 2019. Zagreb, Croatia.<br>
  <a href="https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019.pdf">[abstract]</a>
  <a href="https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019.pdf">[poster]</a><br>
  <span style="color:#494e52">
   <b> Robust machine learning inspired by the models of population dynamics</b>.
- Kulikovskikh I., Šmuc T. (2019)
+  Kulikovskikh I., Šmuc T. (2019).
   <span style="color:gray">
 12th International Ljubljana-Zagreb Workshop on Knowledge Technologies and Data Science. Oct
 24-25, 2019. University of Zagreb, Zagreb, Croatia.<br>
@@ -179,18 +179,18 @@ Kulikovskikh I., Šmuc T. (2019)
 <span style="color:#494e52">
 <b> Implicit regularization of regression models based on the generalized logistic
 equation</b>.
-Kulikovskikh I. (2018)
+Kulikovskikh I. (2018).
   <span style="color:gray">
 Seminar on Data Science. Nov 8, 2018. Laboratory for Machine Learning and Knowledge
 Representation, Ruđer Bošković Institute, Zagreb, Croatia.<br>
 <span style="color:#494e52">
 <b> Implicit regularization of regression models based on cognitive validation maps</b>.
-Kulikovskikh I. (2018)
+Kulikovskikh I. (2018).
   <span style="color:gray">
 Keynote lecture. April 16, 2018. International Conference PIT 2018, Samara, Russia.<br>
  <span style="color:#494e52">
  <b> Implicit regularization of regression models.</b>.
- Kulikovskikh I. (2017)
+ Kulikovskikh I. (2017).
  <span style="color:gray">
  Seminar on Problems in Mathematics.
 December 8, 2017. Department of Mathematics, Samara University, Samara, Russia.<br>
