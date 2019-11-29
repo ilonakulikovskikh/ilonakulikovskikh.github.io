@@ -283,7 +283,7 @@ Kulikovskikh I.M., Prokhorov S.A., Suchkova S.A., Matytsin E.V. (2016).
 <span style="color:gray">
 Izvestia of Samara Scientific Center of the Russian Academy of Sciences. 18(4-4): 760-765. [in Russian]<br>
 <span style="color:#494e52">
-<b>Computing coefficients of nonorthogonal Meixner filters with GNU Octave.</b>.
+<b>Computing coefficients of nonorthogonal Meixner filters with GNU Octave</b>.
 Kulikovskikh I.M. (2016).
 <span style="color:gray">
 Journal of Radio Electronics. 6: 8. [in Russian]<br>
