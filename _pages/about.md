@@ -11,7 +11,7 @@ redirect_from:
 
 <div style ="text-align: justify;">
 <span style ="color:gray; font-size:85%; ">
-Machine learning, Bio-inspired computing, Behavioral science, Evolution of mind and cognitive functions, Embodied cognition, Machine cognition and communication, <strong>Bio-centered artificial intelligence</strong>. 
+Machine learning, Bio-inspired computing, Behavioral science, Evolution of mind and cognitive functions, Embodied cognition, Machine cognition and communication, Data-driven dynamical systems, <strong>Bio-centered artificial intelligence</strong>. 
 </span><br><br>
 
 <span style ="font-size:85%; ">
