@@ -11,14 +11,14 @@ redirect_from:
 
 <div style ="text-align: justify;">
 <span style ="color:gray; font-size:85%; ">
-Machine learning, Bio-inspired computing, Behavioral science, Evolution of mind and cognitive functions, Embodied cognition, Machine cognition and communication, Data-driven dynamical systems, <strong>Bio-centered artificial intelligence</strong>. 
+Machine learning, Bio-inspired computing, Behavioral science, Evolution of mind and cognitive functions, Embodied cognition, Machine cognition and communication, <strong>Bio-centered artificial intelligence</strong>. 
 </span><br><br>
 
 <span style ="font-size:85%; ">
-I am an Associate Professor at Samara University where I lead transdisciplinary projects at the intersection of electrical and knowledge models to create more robust, explainable, and interpretable  machine learning models by  moving towards <b>B</b>io-<b>C</b>entered <b>A</b>rtificial <b>I</b>ntelligence. In comparison to Human-Centered Artificial Intelligence, our approach to designing, development, and deployment of learning systems directly promotes <strong>enactivism</strong> where cognition arises through a dynamic interaction between an acting organism and its environment. Instead of passively receiving information from their environments and, then, translating them into internal representations, bio-centered learning systems participate in the generation of new knowledge by engaging in both transformational and informational interactions.<br><br>
+I am a Full Professor at the Samara University where I lead transdisciplinary projects at the intersection of electrical and knowledge models to create more robust, explainable, and interpretable  machine learning models by  moving towards <b>B</b>io-<b>C</b>entered <b>A</b>rtificial <b>I</b>ntelligence. In comparison to Human-Centered Artificial Intelligence, our approach to designing, development, and deployment of learning systems directly promotes <strong>enactivism</strong> where cognition arises through a dynamic interaction between an acting organism and its environment. Instead of passively receiving information from their environments and, then, translating them into internal representations, bio-centered learning systems participate in the generation of new knowledge by engaging in both transformational and informational interactions.<br><br>
 
 The primary focus of our <b>BCAIL</b> research group is on modeling mechanisms of evolution of mind and cognitive functions of a society or group(s) within a society with regards to the Desirable Difficulties framework. The framework suggests that information must require a considerable but desirable amount of effort while being comprehensible. 
-This allows for <strong>training on less data</strong> with the right amount of difficulty for <strong>faster learning</strong>. Recently I was a Postdoctoral Scholar at University of Zagreb and Ruđer Bošković Institute where we developed the Desirable Difficulties framework in terms of ecological models and networks aiming to overcome the variety of limitations of extant machine learning models.  
+This allows for <strong>training on less data</strong> with the right amount of difficulty for <strong>faster learning</strong>. Recently I was a Postdoctoral Scholar at the University of Zagreb and Ruđer Bošković Institute where we developed the Desirable Difficulties framework in terms of ecological models and networks aiming to overcome the variety of limitations of extant machine learning models.  
 </span>
 </div>
 
