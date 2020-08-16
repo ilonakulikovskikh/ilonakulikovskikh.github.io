@@ -43,6 +43,13 @@ This allows for <strong>training on less data</strong> with the right amount of 
 </p>
 
 <span style ="font-size:80%; ">
+
+<span style="color:#494e52">
+<b>From knowledge transmission to knowledge construction: A step towards 
+human-likeactive learning</b>.
+Kulikovskikh I., Lipić T., Šmuc T. (2020). 
+<span style="color:gray">
+Entropy (accepted)<br>
 <span style="color:#494e52">
 <b>An SGD-based meta-learner with "growing" descent</b>.
 Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). 
@@ -247,7 +254,7 @@ Samara: Samara Branch of Russian Academy of Sciences, 2008. 301 p. [in Russian]<
  Kulikovskikh I.M. (2007).
 <span style="color:gray">
 In Prokhorov S.A. (ed.) Applied analysis of stochastic processes.
-Samara: Samara Scientific Center of the Russian Academy of Sciences, pp. 347-360. [in Russian]<br>
+Samara: Samara Scientific Center of the Russian Academy of Sciences, 347-360. [in Russian]<br>
 
 <p style="float:left;">
     <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
@@ -326,3 +333,21 @@ Journal of Samara State Technical University. Ser. Physical and Mathematical Sci
 Prokhorov S.A., Kulikovskikh I.M. (2007).
 <span style="color:gray">
 Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(15): 123-127. [in Russian]<br>
+
+<p style="float:left;">
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
+</p>
+
+<div style="font-size:90%; color: #0070bc;">
+&nbsp; Preprints
+</div>
+<p id="short-spaced" style="line-height: 5%;">
+<br>
+</p>
+
+<span style="color:#494e52">
+<b>Why to "grow" and "harvest" deep learning models?</b>
+Kulikovskikh I., Legović T. (2020). 
+<span style="color:gray">
+<br>
+<a href="https://arxiv.org/abs/2008.03501">[link]</a>
