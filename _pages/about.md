@@ -43,7 +43,6 @@ This allows for <strong>training on less data</strong> with the right amount of 
 </p>
 
 <span style ="font-size:80%; ">
-
 <span style="color:#494e52">
 <b>From knowledge transmission to knowledge construction: A step towards 
 human-likeactive learning</b>.
