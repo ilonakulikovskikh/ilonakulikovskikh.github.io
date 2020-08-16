@@ -351,4 +351,4 @@ Journal of Samara State Technical University. Ser. Physical and Mathematical Sci
 Kulikovskikh I., Legović T. (2020). 
 <span style="color:gray">
 <br>
-<a href="https://arxiv.org/abs/2008.03501">[link]</a>
+<a href="https://arxiv.org/abs/2008.03501">[arXiv]</a>
