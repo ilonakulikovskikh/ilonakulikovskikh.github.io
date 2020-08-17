@@ -192,7 +192,7 @@ equation</b>.
 Kulikovskikh I. (2018).
   <span style="color:gray">
 Seminar on Data Science. Nov 8, 2018. Laboratory for Machine Learning and Knowledge
-Representation, Ruđer Bošković Institute, Zagreb, Croatia.<br>
+Representation, Ruđer Bošković Institute, Zagreb, Croatia.<br>
 <span style="color:#494e52">
 <b> Implicit regularization of regression models based on cognitive validation maps</b>.
 Kulikovskikh I. (2018).
@@ -266,6 +266,12 @@ Samara: Samara Scientific Center of the Russian Academy of Sciences, 347-360. [i
 </p>
 
 <span style ="font-size:80%; ">
+
+<span style="color:#494e52">
+<b>Reducing computational costs in deep learning on almost linearly separable training data</b>.
+Kulikovskikh I.M. (2020).
+<span style="color:gray">
+Computer Optics. 44(2): 282-289. [in Russian]<br>
 <span style="color:#494e52">
 <b>Regularizing orthogonal models of probabilistic characteristics by validating their basic properties</b>.
 Prokhorov S.A., Kulikovskikh I.M. (2018).
@@ -277,6 +283,11 @@ and group adaptive testing with multiple choice based on a fuzzy cognitive map</
 Kulikovskikh I.M., Prokhorov S.A. (2018).
 <span style="color:gray">
 Software systems and computational methods. 4: 15-26. [in Russian]<br>
+<span style="color:#494e52">
+<b>Anomaly detection in an ecological feature space to improve the accuracy of human activity identification in building</b>.
+Kulikovskikh I.M. (2017).
+<span style="color:gray">
+Computer Optics. 41(1): 126-133. [in Russian]<br>
 <span style="color:#494e52">
 <b>Improving interpretability of regression models by building a tree-step cognition model</b>.
 Kulikovskikh I.M. (2017).
