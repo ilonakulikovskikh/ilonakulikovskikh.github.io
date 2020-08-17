@@ -266,7 +266,6 @@ Samara: Samara Scientific Center of the Russian Academy of Sciences, 347-360. [i
 </p>
 
 <span style ="font-size:80%; ">
-
 <span style="color:#494e52">
 <b>Reducing computational costs in deep learning on almost linearly separable training data</b>.
 Kulikovskikh I.M. (2020).
