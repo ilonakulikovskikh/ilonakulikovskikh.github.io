@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7961cac-b314-4761-8009-b5f72c8fcedd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/.materials_kulikovskikh2017.pdf.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/.post_kulikovskikh2019.pdf.icloud" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +48,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <first_editor relative-caret-position="405">
+                <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -62,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/_sidebar.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="85" column="18" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+            <state relative-caret-position="810">
+              <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -260,16 +257,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_sidebar.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="18" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+        <state relative-caret-position="810">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_pages/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <first_editor relative-caret-position="405">
+            <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
