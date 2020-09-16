@@ -22,18 +22,14 @@ I am working as a full professor and a senior researcher at the Samara Universit
 <br>
 
 I obtained my Ph.D. in Signal Processing, Data Science, and Automation Control from the Faculty of Computer Science at the Samara State Aerospace University in 2011, defending the thesis entitled “Increasing the efficiency of correlation spectral analysis with analytical decomposition method”. The thesis presents novel methods for computationally efficient time series analysis based on the extended orthogonality relations in the Fourier decomposition method.<br>
-
+<br>
 
 In 2020, I defended my post-doctoral degree (Dr.Sc.) thesis in Theoretical Computer Science, entitled “The universal equation for describing the learning processes in technical, social, and natural environments”. In contrast to the prevailing trend towards a theoretical justification for implicit dynamic regularization in deep networks, my thesis is highly transdisciplinary and builds up the artificial intelligence and deep learning theories by explaining the phenomenon of implicit regularization of exponential-type functions through modeling learning behaviors in different environments. It principally directed towards explainable and transparent models with complete control over implicit and inductive biases. The post-doctoral degree defense was organized by the Penza State Technological University, which is based on the computer hardware manufacture in Penza, responsible for building the first computer in the USSR.
+<br>
 
+While working at the Samara University, I led a number of research and industry projects, related to my postdoctoral degree thesis. The primary focus of our <b>BCAIL</b> research group is on modeling mechanisms of evolution of mind and cognitive functions of a society or group(s) within a society.<br>
 
-The primary focus of our <b>BCAIL</b> research group is on modeling mechanisms of evolution of mind and cognitive functions of a society or group(s) within a society.<br>
-
- 
-While working at the Samara University, I led a number of research and industry projects, related to my postdoctoral degree thesis, being actively involved in lecturing and mentoring Master’s and PhD students. In 2018-2019, I was a Research Fellow at the Centre of Research Excellence for Data Science and Advanced Cooperative Systems, Faculty of Electrical Engineering and Computing (FER), University of Zagreb, and Laboratory for Machine Learning and Knowledge Representation, Ruđer Bošković Institute, Croatia in the group of Dr. Tomislav Šmuc.
-
-
-<!--
+ <!--
 The primary focus of our <b>BCAIL</b> research group is on modeling mechanisms of evolution of mind and cognitive functions of a society or group(s) within a society with regards to the Desirable Difficulties framework. The framework suggests that information must require a considerable but desirable amount of effort while being comprehensible. 
 This allows for <strong>training on less data</strong> with the right amount of difficulty for <strong>faster learning</strong>. Recently I was a Postdoctoral Scholar at the University of Zagreb and Ruđer Bošković Institute where we developed the Desirable Difficulties framework in terms of ecological models and networks aiming to overcome the variety of limitations of extant machine learning models.  
 -->
