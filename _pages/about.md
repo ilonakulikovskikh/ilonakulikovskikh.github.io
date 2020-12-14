@@ -18,6 +18,7 @@ Machine intelligence, Evolution of mind and cognitive functions, Embodied cognit
 
 
 <span style ="font-size:85%; ">
+<!---
 I am working as a full professor and a senior researcher at the Samara University in Russia. The university is the successor of the former Samara State Aerospace University, one of the leading centers of the aerospace industry, which is responsible for the development of space technology including strategic information technologies in Russia.<br>
 <br>
 
@@ -28,6 +29,7 @@ In 2020, I defended my post-doctoral degree (Dr.Sc.) thesis in Theoretical Compu
 <br>
 
 I led a number of research and industry projects, related to my postdoctoral degree thesis. The primary focus of our <b>BCAIL</b> research group is on modeling mechanisms of evolution of mind and cognitive functions of a society or group(s) within a society.<br>
+-->
 
  <!--
 The primary focus of our <b>BCAIL</b> research group is on modeling mechanisms of evolution of mind and cognitive functions of a society or group(s) within a society with regards to the Desirable Difficulties framework. The framework suggests that information must require a considerable but desirable amount of effort while being comprehensible. 
