@@ -13,8 +13,7 @@ redirect_from:
 
 
 <span style ="color:gray; font-size:85%; ">
-Machine intelligence, Evolution of mind and cognitive functions, Embodied cognition, Collective cognition and communication, <strong>Bio-centered artificial intelligence</strong>. 
-</span><br><br>
+Explainable AI, Safety, Ethics AI, Machine intelligence, Embodied cognition, Machine cognition and communication, Human-machine interaction, Control and dynamic systems </span><br><br>
 
 
 <span style ="font-size:85%; ">
