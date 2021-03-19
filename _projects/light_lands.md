@@ -1,6 +1,6 @@
 ---
 title: "The Lands of LIGHT"
-excerpt: "Encouraging metaphorical thinking, which can spark a better understanding of complex ideas, with worldbuilding. <br/><img src='/images/LIGHTS_lands.png'>"
+excerpt: "Encouraging metaphorical thinking, which can spark a better understanding of complex ideas in AI, with worldbuilding. <br/><img src='/images/LIGHTS_lands.png'>"
 collection: projects
 ---
 
