@@ -3,7 +3,7 @@ title: "The Lands of LIGHT"
 excerpt: ""
 collection: projects
 ---
-Sparking a better understanding of complex ideas in AI with metaphorical thinking.<br/><img src='/images/LIGHTS_lands.png'>
+Sparking a better understanding of complex ideas in AI through metaphorical thinking.<br/><img src='/images/LIGHTS_lands.png'>
 
  <!--
 developing machine learning projects through
