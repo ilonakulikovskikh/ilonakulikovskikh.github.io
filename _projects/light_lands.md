@@ -6,7 +6,7 @@ collection: projects
 Machines must be clearly and fully explainable to be socially acceptable. This is because they operate in areas of high societal significance such as health, police, mobility, or education. However, they still lack the transparency that is vital for their adoption. 
 In an attempt to explain machines’ behavior, it is natural to look for bio-inspiration originating in humans and living organisms. Even though machine intelligence still can barely compete with human intelligence, this analogy leads to an unreasonable fear of technological singularity.
 Before being established, our world has undergone long-term evolution. Observing it through many generations, we still can not explain all mysteries it holds. Since we need machines to complement our society, would it be better to build a new alternative world with clearly defined principles and laws, addressing the current ethical concerns of artificial intelligence?
-This project suggest sparking a better understanding of complex ideas in AI through metaphorical thinking.. In line with a new interpretation, it brings with it a transparent and enjoyable way of presenting the current advances in the area.
+This project suggest sparking a better understanding of complex ideas in AI through worldbuilding which encourages metaphorical thinking. In line with a new interpretation, it brings with it a transparent and enjoyable way of presenting the current advances in the area.
 
 <img src='/images/LIGHTS_lands.png'>
 
