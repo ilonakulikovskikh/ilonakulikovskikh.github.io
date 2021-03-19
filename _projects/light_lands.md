@@ -4,10 +4,6 @@ excerpt: ""
 collection: projects
 ---
 
-<div style="font-size:110%; color: #494e52">
-    The Lands of LIGHT
-</div><b>
-
 <div style ="text-align: justify;">
 <span style ="color:gray; font-size:85%; ">
 Machines must be clearly and fully explainable to be socially acceptable. This is because they operate in areas of high societal significance such as health, police, mobility, or education. However, they still lack the transparency that is vital for their adoption.<br><br>
