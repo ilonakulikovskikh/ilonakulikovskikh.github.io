@@ -19,7 +19,7 @@ Explainable AI, Safety, Ethics AI, Machine intelligence, Embodied cognition, Mac
 
 I am working as a Full Professor and a Senior Researcher at the Samara University in Russia. The university is the successor of the former Samara State Aerospace University, one of the leading centers of the aerospace industry, which is responsible for the development of space technology including strategic information technologies.<br>
 <br>
-In 2018, I founded the <b>SELF<\b> (Tran**S**parency **E**xp**L**ainability Sa**F**ety) Group,
+In 2018, I founded the <b>SELF</b> (Tran**S**parency **E**xp**L**ainability Sa**F**ety) Group,
 where we build explainable and reliable AI systems with the primary focus on identifying, formulating and solving technical problems in AI safety. 
 
 <!---
