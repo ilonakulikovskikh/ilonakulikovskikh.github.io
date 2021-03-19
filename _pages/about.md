@@ -458,7 +458,7 @@ Journal of Samara State Technical University. Ser. Physical and Mathematical Sci
 Kulikovskikh I., Legović T. (2021). 
 <span style="color:gray">
 <br>
-<a href="https://arxiv.org/abs/2102.00853">[arXiv]</a>
+<a href="https://arxiv.org/abs/2102.00853">[arXiv]</a><br>
 <!--- & -->
 <span style="color:#494e52">
 <b>Why to "grow" and "harvest" deep learning models?</b>
