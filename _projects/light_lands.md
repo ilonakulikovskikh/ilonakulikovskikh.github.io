@@ -4,7 +4,7 @@ excerpt: ""
 collection: projects
 ---
 
-<div style="font-size:110%; color: #494e52"">
+<div style="font-size:110%; color: #494e52">
     The Lands of LIGHT
 </div><b>
 
