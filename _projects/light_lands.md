@@ -1,10 +1,7 @@
 ---
-layout: archive
-title: "Projects"
-permalink: /projects/
-author_profile: true
+title: "The Lands of LIGHT"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: projects
 ---
 
-{% include base_path %}
-
-hjkhjk
+bla-bla
