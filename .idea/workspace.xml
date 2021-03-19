@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7961cac-b314-4761-8009-b5f72c8fcedd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_layouts/archive-taxonomy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/archive-taxonomy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/talk.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/talk.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/archive-taxonomy.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_layouts/talk.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -66,6 +75,7 @@
       <find>header</find>
       <find>archive__item</find>
       <find>portfolio</find>
+      <find>h1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -91,6 +101,8 @@
         <option value="$PROJECT_DIR$/_includes/archive-single.html" />
         <option value="$PROJECT_DIR$/_layouts/archive.html" />
         <option value="$PROJECT_DIR$/_layouts/archive-taxonomy.html" />
+        <option value="$PROJECT_DIR$/_layouts/single.html" />
+        <option value="$PROJECT_DIR$/_layouts/talk.html" />
       </list>
     </option>
   </component>
@@ -131,49 +143,12 @@
             <path>
               <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-              <item name="analytics-providers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-              <item name="comments-providers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_portfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_publications" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -189,17 +164,6 @@
               <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ilonakulikovskikh.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ilonakulikovskikh.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,13 +231,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_pages/talkmap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/projects.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -347,9 +304,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/analytics-providers/custom.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/page-archive.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.dev.yml">
@@ -521,16 +475,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/talk.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/splash.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-754" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -538,10 +484,37 @@
     <entry file="file://$PROJECT_DIR$/_layouts/compress.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="227">
+            <caret line="235" column="126" selection-start-line="235" selection-start-column="126" selection-end-line="235" selection-end-column="126" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/page-archive.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/archive-taxonomy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/talk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
         </state>
       </provider>
     </entry>
