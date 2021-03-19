@@ -37,8 +37,8 @@
         <entry file="file://$PROJECT_DIR$/_projects/light_lands.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="265" selection-start-line="5" selection-start-column="265" selection-end-line="5" selection-end-column="265" />
               </first_editor>
               <second_editor />
             </state>
@@ -224,7 +224,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="77" width="1440" height="825" extended-state="0" />
+    <frame x="0" y="289" width="1440" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17758985" />
@@ -544,8 +544,8 @@
     <entry file="file://$PROJECT_DIR$/_projects/light_lands.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="265" selection-start-line="5" selection-start-column="265" selection-end-line="5" selection-end-column="265" />
           </first_editor>
           <second_editor />
         </state>
