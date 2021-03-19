@@ -1,8 +1,10 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /_pages/
+permalink: /projects/
 author_profile: true
 ---
+
+{% include base_path %}
 
 hjkhjk

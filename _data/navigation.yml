@@ -4,7 +4,7 @@ main:
     url: /#publications
 
  - title: "Projects"
-    url: /projects/projects.html
+    url: /projects/
     
   - title: "CV"
     url: /files/cv_kulikovskikh_short.pdf
