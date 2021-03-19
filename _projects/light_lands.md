@@ -1,8 +1,9 @@
 ---
 title: "The Lands of LIGHT"
-excerpt: "Making AI explainable with worldbuilding <br/><img src='/images/LIGHTS_lands.png'>"
+excerpt: "Worldbuilding encourages metaphorical thinking, which can spark a better understanding of complex ideas. <br/><img src='/images/LIGHTS_lands.png'>"
 collection: projects
 ---
+
 
 #developing machine learning projects through
 #building an artificial world
