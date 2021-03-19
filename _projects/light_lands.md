@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The Lands of LIGHT"
 excerpt: ""
 collection: projects
 ---
