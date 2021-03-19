@@ -66,6 +66,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
 Kulikovskikh I., Legović T. (2021). 
 <span style="color:gray">
 (submitted)<br>
+<span style="vertical-align:-30%"></span><br>
 <!--- & -->
 <span style="color:#494e52">
 <b>From knowledge transmission to knowledge construction: A step towards 
@@ -74,6 +75,7 @@ Kulikovskikh I., Lipić T., Šmuc T. (2020).
 <span style="color:gray">
 Entropy. 22(8): 906.<br>
 <a href="https://www.mdpi.com/1099-4300/22/8/906/htm">[link]</a><br>
+<span style="vertical-align:-30%"></span><br>
 <!--- & -->
 <span style="color:#494e52">
 <b>An SGD-based meta-learner with "growing" descent</b>.
