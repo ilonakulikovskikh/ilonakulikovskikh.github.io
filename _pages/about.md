@@ -234,7 +234,7 @@ Kulikovskikh I., Lipić T., Šmuc T. (2020).
 <span style="color:gray">
 5th Workshop on Data Science (IWDS 2020). Nov 24, 2020. Zagreb, Croatia.<br>
 <a href="https://ilonakulikovskikh.github.io/files/IWDS2020_Kulikovskikh.pdf">[pdf]</a>
-<a href="https://ilonakulikovskikh.github.io/files/IWDS2020_Kulikovskikh.mov">[pdf]</a>
+<a href="https://ilonakulikovskikh.github.io/files/IWDS2020_Kulikovskikh.mov">[video]</a>
 <a href="https://drive.google.com/file/d/1Cxbe4hO7DhtRAob6shVdUdCzNw_6K9fC/view">[talk]</a><br>
 <!--- & -->
 <span style="color:#494e52">
