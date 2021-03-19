@@ -25,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="366">
-                <caret line="74" selection-start-line="74" selection-end-line="81" />
+              <first_editor relative-caret-position="753">
+                <caret line="59" selection-start-line="59" selection-end-line="59" selection-end-column="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -37,8 +37,8 @@
         <entry file="file://$PROJECT_DIR$/_projects/light_lands.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <first_editor relative-caret-position="480">
+                <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -535,8 +535,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="366">
-            <caret line="74" selection-start-line="74" selection-end-line="81" />
+          <first_editor relative-caret-position="753">
+            <caret line="59" selection-start-line="59" selection-end-line="59" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>
@@ -545,8 +545,8 @@
     <entry file="file://$PROJECT_DIR$/_projects/light_lands.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <first_editor relative-caret-position="480">
+            <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
