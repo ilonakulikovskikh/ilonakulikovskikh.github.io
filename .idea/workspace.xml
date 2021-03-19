@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7961cac-b314-4761-8009-b5f72c8fcedd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_sass/_archive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_archive.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_page.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,7 +66,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/_page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="132">
               <caret line="153" column="29" selection-start-line="153" selection-start-column="29" selection-end-line="153" selection-end-column="29" />
             </state>
           </provider>
@@ -142,8 +141,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-25" />
-    <option name="y" value="468" />
+    <option name="x" value="-39" />
+    <option name="y" value="124" />
     <option name="width" value="1440" />
     <option name="height" value="825" />
   </component>
@@ -291,7 +290,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-35" y="138" width="1440" height="825" extended-state="0" />
+    <frame x="-39" y="124" width="1440" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17758985" />
@@ -610,7 +609,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="132">
           <caret line="153" column="29" selection-start-line="153" selection-start-column="29" selection-end-line="153" selection-end-column="29" />
         </state>
       </provider>
