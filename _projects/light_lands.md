@@ -4,7 +4,7 @@ excerpt: "Sparking a better understanding of complex ideas in AI with metaphoric
 collection: projects
 ---
 
- <!--
+ <!---
 developing machine learning projects through
 building an artificial world
 
@@ -14,4 +14,4 @@ spark a better understanding of complex ideas by associating an unfamiliar idea 
 commonplace. This is one of the fastest ways to build practical intuition around machine learning,
 addressing the transparency and explainability issues.
 
--->
+--->
