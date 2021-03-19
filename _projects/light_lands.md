@@ -1,7 +1,14 @@
 ---
 title: "The Lands of LIGHT"
-excerpt: "Short description of project item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Making AI explainable through building an artificial world<br/><img src='/images/LIGHTS_lands.png'>"
 collection: projects
 ---
 
-bla-bla
+#developing machine learning projects through
+#building an artificial world
+
+#it complements the submission with new visualization tools, which improve clarity, content delivery,
+#and interactivity. The key point of worldbuilding is to encourage metaphorical thinking, which can
+#spark a better understanding of complex ideas by associating an unfamiliar idea with one that is
+#commonplace. This is one of the fastest ways to build practical intuition around machine learning,
+#addressing the transparency and explainability issues.
