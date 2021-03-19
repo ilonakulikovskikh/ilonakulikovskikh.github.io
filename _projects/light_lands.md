@@ -1,6 +1,6 @@
 ---
 title: "The Lands of LIGHT"
-excerpt: "Making AI explainable through building an artificial world<br/><img src='/images/LIGHTS_lands.png'>"
+excerpt: "Making AI explainable with worldbuilding <br/><img src='/images/LIGHTS_lands.png'>"
 collection: projects
 ---
 
