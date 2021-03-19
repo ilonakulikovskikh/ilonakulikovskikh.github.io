@@ -1,14 +1,20 @@
 ---
-title: "The Lands of LIGHT"
+title: ""
 excerpt: ""
 collection: projects
 ---
+
+<div style="font-size:110%; color: #0070bc">
+    &nbsp; The Lands of LIGHT
+</div>
+
+
 <div style ="text-align: justify;">
 <span style ="color:gray; font-size:85%; ">
-Machines must be clearly and fully explainable to be socially acceptable. This is because they operate in areas of high societal significance such as health, police, mobility, or education. However, they still lack the transparency that is vital for their adoption.<br>
-In an attempt to explain machines’ behavior, it is natural to look for bio-inspiration originating in humans and living organisms. Even though machine intelligence still can barely compete with human intelligence, this analogy leads to an unreasonable fear of technological singularity.<br>
-Before being established, our world has undergone long-term evolution. Observing it through many generations, we still can not explain all mysteries it holds. Since we need machines to complement our society, would it be better to build a new alternative world with clearly defined principles and laws, addressing the current ethical concerns of artificial intelligence?<br>
-This project suggest developing AI through worldbuilding. In line with a new interpretation, it brings with it a transparent and enjoyable way of presenting the current advances in the area.<br><br>
+Machines must be clearly and fully explainable to be socially acceptable. This is because they operate in areas of high societal significance such as health, police, mobility, or education. However, they still lack the transparency that is vital for their adoption.<br><br>
+In an attempt to explain machines’ behavior, it is natural to look for bio-inspiration originating in humans and living organisms. Even though machine intelligence still can barely compete with human intelligence, this analogy leads to an unreasonable fear of technological singularity.<br><br>
+Before being established, our world has undergone long-term evolution. Observing it through many generations, we still can not explain all mysteries it holds. Since we need machines to complement our society, would it be better to build a new alternative world with clearly defined principles and laws, addressing the current ethical concerns of artificial intelligence?<br><br>
+This project suggests developing AI through worldbuilding. In line with a new interpretation, it brings with it a transparent and enjoyable way of presenting the current advances in the area.<br><br>
 </span>
 </div>
 
