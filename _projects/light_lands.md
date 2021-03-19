@@ -4,10 +4,9 @@ excerpt: ""
 collection: projects
 ---
 
-<div style="font-size:110%; color: #0070bc">
-    &nbsp; The Lands of LIGHT
-</div>
-
+<div style="font-size:110%; color: #494e52"">
+    The Lands of LIGHT
+</div><b>
 
 <div style ="text-align: justify;">
 <span style ="color:gray; font-size:85%; ">
