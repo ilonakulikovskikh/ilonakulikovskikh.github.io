@@ -2,9 +2,10 @@
 main:
   - title: "Publications"
     url: /#publications
+
+ - title: "Projects"
+    url: /projects/projects.html
     
   - title: "CV"
     url: /files/cv_kulikovskikh_short.pdf
 
-  - title: "Projects"
-    url: /
