@@ -13,7 +13,9 @@ This project suggests developing AI through worldbuilding. In line with a new in
 </span>
 </div>
 
-<img src='/images/LIGHTS_lands.png'>
+<img src='/images/LIGHTS_lands.png'><br>
+<span style ="color:gray; font-size:35%; ">
+Created with Worderdraft v. 1.1.5 Beta 1
 
 <span style ="font-size:80%; ">
 <span style="color:#494e52">
