@@ -13,13 +13,13 @@ redirect_from:
 
 
 <span style ="color:gray; font-size:85%; ">
-Explainable AI, Safety, Ethics AI, Machine intelligence, Embodied cognition, Machine cognition and communication, Dynamic and control systems, Optimization, Evolutionary computation </span><br><br>
+Explainable AI, Safety, Ethics AI, Machine intelligence, Embodied cognition, Machine cognition and communication, Cognitive ecology, Dynamic and control systems, Optimization, Evolutionary computation </span><br><br>
 
 <span style ="font-size:85%; ">
 
-I am working as a Full Professor and a Senior Researcher at the Samara University in Russia. The university is the successor of the former Samara State Aerospace University, one of the leading centers of the aerospace industry, which is responsible for the development of space technology including strategic information technologies.<br>
+I am working as a Full Professor and a Senior Researcher at the Samara University. The university is the successor of the former Samara State Aerospace University, one of the leading centers of the aerospace industry, which is responsible for the development of space technology including strategic information technologies.<br>
 <br>
-In 2018, I founded the <b>SELF</b> (Tran<b>S</b>parency <b>E</b>xp<b>L</b>ainability Sa<b>F</b>ety) Group,
+In 2018, I founded the <b>SELF</b> (Tran<b>S</b>parency <b>E</b>xp<b>L</b>ainability Sa<b>F</b>ety) research group,
 where we build explainable and reliable AGI systems with the primary focus on identifying, formulating and solving safety problems in AGI. 
 
 <!---
