@@ -13,7 +13,7 @@ redirect_from:
 
 
 <span style ="color:gray; font-size:85%; ">
-Explainable AI, Safety, Ethics AI, Machine intelligence, Embodied cognition, Machine cognition and communication, Cognitive ecology, Dynamic and control systems, Optimization, Evolutionary computation </span><br><br>
+Explainable AI, Safety, Ethics AI, AGI, Embodied cognition, Machine cognition and communication, Cognitive ecology, Dynamic and control systems, Optimization, Evolutionary computation </span><br><br>
 
 <span style ="font-size:85%; ">
 
