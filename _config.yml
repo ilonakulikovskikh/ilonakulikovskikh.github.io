@@ -83,8 +83,8 @@ author:
   #pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=71sbH3EAAAAJ&hl=en"
   email            : "kulikovskikh.i@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : "https://www.researchgate.net/profile/Im-Kulikovskikh"
+  uri              : "https://ssau.ru/english/staff/147658359-kulikovskikh-ilona-m"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -104,14 +104,14 @@ author:
   #stackoverflow http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@IKulikovskikh"
   vine             :
   weibo            :
   xing             :
   youtube          :
   web_page         : "https://www.ilonakulikovskikh.github.io"
   wikipedia        :
-  elibrary         : "http://orcid.org/0000-0002-6653-5978"
+  elibrary         : "https://www.elibrary.ru/author_profile.asp?authorid=528935"
 
 
 # Reading Files
