@@ -65,7 +65,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
 <b>Painless step size adaptation for SGD</b>.
 Kulikovskikh I., Legović T. (2021). 
 <span style="color:gray">
-(submitted)<br>
+(submitted)<br><br>
 <!--- & -->
 <span style="color:#494e52">
 <b>From knowledge transmission to knowledge construction: A step towards 
