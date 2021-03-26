@@ -63,7 +63,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     <b>Painless step size adaptation for SGD</b>.<br>
     Kulikovskikh I., Legović T. (2021). 
     <span style="color:gray">
-    (submitted)
+    (submitted) <br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b>From knowledge transmission to knowledge construction: A step towards 
@@ -155,63 +155,63 @@ This allows for <strong>training on less data</strong> with the right amount of 
 
 <span style ="font-size:80%; ">
 <!--- & -->
-<span style="color:#494e52">
-<b> Neurons learn slower than they think</b>.
-Kulikovskikh I. (2021). 
-<span style="color:gray">
-(submitted)<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Neurons learn slower than they think</b>.<br>
+    Kulikovskikh I. (2021). <br>
+    <span style="color:gray">
+    (submitted)<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Stop looking for bio-inspiration. Let machines have their own world</b>.
-Kulikovskikh I., Legović T. (2021). 
-<span style="color:gray">
-(submitted)<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Stop looking for bio-inspiration. Let machines have their own world</b>.<br>
+    Kulikovskikh I., Legović T. (2021). <br>
+    <span style="color:gray">
+    (submitted)<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Grow slower, converge faster: Towards better convergence dynamics</b>.
-Kulikovskikh I., Legović T. (2021). 
-<span style="color:gray">
-(submitted)<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Grow slower, converge faster: Towards better convergence dynamics</b>.<br>
+    Kulikovskikh I., Legović T. (2021). <br>
+    <span style="color:gray">
+    (submitted)<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Growth and harvest induce essential dynamics in neural networks</b>.
-Kulikovskikh I., Legović T. (2021). 
-<span style="color:gray">
-(submitted)<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Growth and harvest induce essential dynamics in neural networks</b>.<br>
+    Kulikovskikh I., Legović T. (2021). <br>
+    <span style="color:gray">
+    (submitted)<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Growing descent of stochastic gradient with
-the generalized logistic map</b>.
-Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). 
-<span style="color:gray">
-In: Proceedings of the 5th Conference on Information Technology and
-Nanotechnology (ITNT-2019). May 21-24, 2019. Samara, Russia. pp. 338-344.<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Growing descent of stochastic gradient with
+    the generalized logistic map</b>.<br>
+    Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). <br>
+    <span style="color:gray">
+    In: Proceedings of the 5th Conference on Information Technology and
+    Nanotechnology (ITNT-2019). May 21-24, 2019. Samara, Russia. pp. 338-344.<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> A method of implicit regularization based on the phenomena of
-retrieval-induced forgetting (RIF)</b>.
-Kulikovskikh I.M., Prokhorov S.A. (2018). 
-<span style="color:gray">
-In: Proceedings of the 4th Conference on Information Technology and
-Nanotechnology (ITNT-2019). May 21-24, 2018. Samara, Russia. pp. 2132-2137.<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> A method of implicit regularization based on the phenomena of
+    retrieval-induced forgetting (RIF)</b>.<br>
+    Kulikovskikh I.M., Prokhorov S.A. (2018). <br>
+    <span style="color:gray">
+    In: Proceedings of the 4th Conference on Information Technology and
+    Nanotechnology (ITNT-2019). May 21-24, 2018. Samara, Russia. pp. 2132-2137.<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Modifications of log-likelihood to measure floor and ceiling
-effects</b>.
-Kulikovskikh I.M., Prokhorov S.A. (2017). 
-<span style="color:gray">
-In: Proceedings of the 3rd Conference on Information Technology and Nanotechnology
-(ITNT-2017). Apr 25-27, 2017. Samara, Russia. pp. 1849-1853.<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Modifications of log-likelihood to measure floor and ceiling
+    effects</b>.<br>
+    Kulikovskikh I.M., Prokhorov S.A. (2017). <br>
+    <span style="color:gray">
+    In: Proceedings of the 3rd Conference on Information Technology and Nanotechnology
+    (ITNT-2017). Apr 25-27, 2017. Samara, Russia. pp. 1849-1853.<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Fuzzy learning performance assessment based on decision
-making under internal uncertainty</b>.
-Prokhorov S.A., Kulikovskikh I.M. (2015). 
-<span style="color:gray">
-In: Proceedings of the 7th Computer Science and Electronic
-Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<br>
-<a href="https://ilonakulikovskikh.github.io/files/prokhorov2015_1.pdf">[pdf]</a>
-<a href="https://ilonakulikovskikh.github.io/files/talk_prokhorov2015_1.pdf">[talk]</a><br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Fuzzy learning performance assessment based on decision
+    making under internal uncertainty</b>.<br>
+    Prokhorov S.A., Kulikovskikh I.M. (2015). <br>
+    <span style="color:gray">
+    In: Proceedings of the 7th Computer Science and Electronic
+    Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<br>
+    <a href="https://ilonakulikovskikh.github.io/files/prokhorov2015_1.pdf">[pdf]</a>
+    <a href="https://ilonakulikovskikh.github.io/files/talk_prokhorov2015_1.pdf">[talk]</a><br>
 <!--- & -->
  
 <p style="float:left;">
@@ -226,65 +226,65 @@ Engineering Conference (CEEC’15). Sep 24-25, 2015. Colchester, UK. pp. 65-70.<
  
 <span style ="font-size:80%; ">
 <!--- & -->
-<span style="color:#494e52">
-<b> Neurons in 'active learning' learn less than they think</b>. 
-Kulikovskikh I., Lipić T., Šmuc T. (2020).
-<span style="color:gray">
-5th Workshop on Data Science (IWDS 2020). Nov 24, 2020. Zagreb, Croatia.<br>
-<a href="https://ilonakulikovskikh.github.io/files/IWDS2020_Kulikovskikh.pdf">[pdf]</a>
-<a href="https://ilonakulikovskikh.github.io/files/IWDS2020_Kulikovskikh.mov">[video]</a>
-<a href="https://drive.google.com/file/d/1Cxbe4hO7DhtRAob6shVdUdCzNw_6K9fC/view">[talk]</a><br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Neurons in 'active learning' learn less than they think</b>. <br>
+    Kulikovskikh I., Lipić T., Šmuc T. (2020).<br>
+    <span style="color:gray">
+    5th Workshop on Data Science (IWDS 2020). Nov 24, 2020. Zagreb, Croatia.<br>
+    <a href="https://ilonakulikovskikh.github.io/files/IWDS2020_Kulikovskikh.pdf">[pdf]</a>
+    <a href="https://ilonakulikovskikh.github.io/files/IWDS2020_Kulikovskikh.mov">[video]</a>
+    <a href="https://drive.google.com/file/d/1Cxbe4hO7DhtRAob6shVdUdCzNw_6K9fC/view">[talk]</a><br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Machines in a classroom: Towards human-like active learning</b>. 
-Kulikovskikh I., Šmuc T. (2019).
-<span style="color:gray">
-22nd Conference on Discovery Science (DS 2019). Oct 28-30, 2019. Split, Croatia.<br>
-<a href="https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019_2.pdf">[abstract]</a>
-<a href="https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019_2.pdf">[poster]</a>
-<a href="https://prezi.com/view/ivikvBr4IXjZAlXW4QoX/">[talk]</a><br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Machines in a classroom: Towards human-like active learning</b>. <br>
+    Kulikovskikh I., Šmuc T. (2019).<br>
+    <span style="color:gray">
+    22nd Conference on Discovery Science (DS 2019). Oct 28-30, 2019. Split, Croatia.<br>
+    <a href="https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019_2.pdf">[abstract]</a>
+    <a href="https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019_2.pdf">[poster]</a>
+    <a href="https://prezi.com/view/ivikvBr4IXjZAlXW4QoX/">[talk]</a><br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Bio-inspired robust machine learning</b>.
-Kulikovskikh I., Šmuc T. (2019).
-<span style="color:gray">
-4th Workshop on Data Science (IWDS 2019). Oct 15, 2019. Zagreb, Croatia.<br>
-<a href="https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019.pdf">[abstract]</a>
-<a href="https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019.pdf">[poster]</a><br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Bio-inspired robust machine learning</b>.<br>
+    Kulikovskikh I., Šmuc T. (2019).<br>
+    <span style="color:gray">
+    4th Workshop on Data Science (IWDS 2019). Oct 15, 2019. Zagreb, Croatia.<br>
+    <a href="https://ilonakulikovskikh.github.io/files/abst_kulikovskikh2019.pdf">[abstract]</a>
+    <a href="https://ilonakulikovskikh.github.io/files/post_kulikovskikh2019.pdf">[poster]</a><br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Robust machine learning inspired by the models of population dynamics</b>.
-Kulikovskikh I., Šmuc T. (2019).
-<span style="color:gray">
-12th International Ljubljana-Zagreb Workshop on Knowledge Technologies and Data Science. Oct
-24-25, 2019. University of Zagreb, Zagreb, Croatia.<br>
-<a href="https://ilonakulikovskikh.github.io/files/talk_kulikovskikh2019_1.pdf">[talk]</a><br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Robust machine learning inspired by the models of population dynamics</b>.<br>
+    Kulikovskikh I., Šmuc T. (2019).<br>
+    <span style="color:gray">
+    12th International Ljubljana-Zagreb Workshop on Knowledge Technologies and Data Science. Oct
+    24-25, 2019. University of Zagreb, Zagreb, Croatia.<br>
+    <a href="https://ilonakulikovskikh.github.io/files/talk_kulikovskikh2019_1.pdf">[talk]</a><br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Modelling machine-machine interactions with the generalized logistic equation</b>.
-Kulikovskikh I. (2018).
- <span style="color:gray">
-Seminar on Data Science. Nov 8, 2018. Laboratory for Machine Learning and Knowledge
-Representation, Ruđer Bošković Institute, Zagreb, Croatia.<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Modelling machine-machine interactions with the generalized logistic equation</b>.<br>
+    Kulikovskikh I. (2018).<br>
+    <span style="color:gray">
+    Seminar on Data Science. Nov 8, 2018. Laboratory for Machine Learning and Knowledge
+    Representation, Ruđer Bošković Institute, Zagreb, Croatia.<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Implicit regularization in machine-machine interactions</b>.
-Kulikovskikh I. (2018).
- <span style="color:gray">
-Keynote lecture. April 16, 2018. International Conference PIT 2018, Samara, Russia.<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Implicit regularization in machine-machine interactions</b>.<br>
+    Kulikovskikh I. (2018).<br>
+    <span style="color:gray">
+    Keynote lecture. April 16, 2018. International Conference PIT 2018, Samara, Russia.<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Implicit regularization of regression models</b>.
-Kulikovskikh I. (2017).
-<span style="color:gray">
-Seminar on Problems in Mathematics.
-December 8, 2017. Department of Mathematics, Samara University, Samara, Russia.<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Implicit regularization of regression models</b>.<br>
+    Kulikovskikh I. (2017).<br>
+    <span style="color:gray">
+    Seminar on Problems in Mathematics.
+    December 8, 2017. Department of Mathematics, Samara University, Samara, Russia.<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Some lightweight algorithms for scientific computing in mobile technologies</b>.
-Kulikovskikh I.M., Prokhorov S.A. (2013).
-<span style="color:gray">
-8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Some lightweight algorithms for scientific computing in mobile technologies</b>.<br>
+    Kulikovskikh I.M., Prokhorov S.A. (2013).<br>
+    <span style="color:gray">
+    8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
 <p style="float:left;">
      <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
