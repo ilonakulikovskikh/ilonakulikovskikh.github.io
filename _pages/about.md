@@ -65,7 +65,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     <span style="color:gray">
     (submitted)
 <!--- & -->
-*   <span style="color:#494e52">
+*   <span style="color:#494e52; font-size:80%">
     <b>From knowledge transmission to knowledge construction: A step towards 
     human-like active learning</b>. 
     Kulikovskikh I., Lipić T., Šmuc T. (2020). 
@@ -73,7 +73,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     Entropy. 22(8): 906.<br>
     <a href="https://www.mdpi.com/1099-4300/22/8/906/htm">[link]</a>
 <!--- & -->
-*   <span style="color:#494e52">
+*   <span style="color:#494e52; font-size:80%">
     <b>An SGD-based meta-learner with "growing" descent</b>.
     Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). 
     <span style="color:gray">
