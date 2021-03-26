@@ -346,97 +346,96 @@ This allows for <strong>training on less data</strong> with the right amount of 
 <br>
 </p>
 
-<span style ="font-size:80%; ">
 <!--- & -->
-<span style="color:#494e52">
-<b>Reducing computational costs in deep learning on almost linearly separable training data</b>.
-Kulikovskikh I.M. (2020).
-<span style="color:gray">
-Computer Optics. 44(2): 282-289. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>Reducing computational costs in deep learning on almost linearly separable training data</b>.<br>
+    Kulikovskikh I.M. (2020).<br>
+    <span style="color:gray">
+    Computer Optics. 44(2): 282-289. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b>Regularizing orthogonal models of probabilistic characteristics by validating their basic properties</b>.
-Prokhorov S.A., Kulikovskikh I.M. (2018).
-<span style="color:gray">
-Software & Systems. 31(1): 99-101. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>Regularizing orthogonal models of probabilistic characteristics by validating their basic properties</b>.<br>
+    Prokhorov S.A., Kulikovskikh I.M. (2018).<br>
+    <span style="color:gray">
+    Software & Systems. 31(1): 99-101. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b>Regulating complexity of adaptive multiple-choice testing with fuzzy cognitive maps</b>.
-Kulikovskikh I.M., Prokhorov S.A. (2018).
-<span style="color:gray">
-Software systems and computational methods. 4: 15-26. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>Regulating complexity of adaptive multiple-choice testing with fuzzy cognitive maps</b>.<br>
+    Kulikovskikh I.M., Prokhorov S.A. (2018).<br>
+    <span style="color:gray">
+    Software systems and computational methods. 4: 15-26. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b>Anomaly detection in an ecological feature space to improve the accuracy of human activity identification in building</b>.
-Kulikovskikh I.M. (2017).
-<span style="color:gray">
-Computer Optics. 41(1): 126-133. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>Anomaly detection in an ecological feature space to improve the accuracy of human activity identification in building</b>.<br>
+    Kulikovskikh I.M. (2017).<br>
+    <span style="color:gray">
+    Computer Optics. 41(1): 126-133. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Reinterpreting regression models with a tree-step cognition model</b>.
-Kulikovskikh I.M. (2017).
-<span style="color:gray">
-Software & Systems. 30(4): 601-608. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Reinterpreting regression models with a tree-step cognition model</b>.<br>
+    Kulikovskikh I.M. (2017).<br>
+    <span style="color:gray">
+    Software & Systems. 30(4): 601-608. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b>An approach to feature extraction to detect occupancy in buildings using ecological factors</b>.
-Kulikovskikh I.M. (2016).
-<span style="color:gray">
-Izvestia of Samara Scientific Center of the Russian Academy of Sciences. 18(4-4): 754-759. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>An approach to feature extraction to detect occupancy in buildings using ecological factors</b>.<br>
+    Kulikovskikh I.M. (2016).<br>
+    <span style="color:gray">
+    Izvestia of Samara Scientific Center of the Russian Academy of Sciences. 18(4-4): 754-759. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Fuzzy collaborative learning with partial knowledge</b>.
-Kulikovskikh I.M., Prokhorov S.A., Suchkova S.A., Matytsin E.V. (2016).
-<span style="color:gray">
-Izvestia of Samara Scientific Center of the Russian Academy of Sciences. 18(4-4): 760-765. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Fuzzy collaborative learning with partial knowledge</b>.<br>
+    Kulikovskikh I.M., Prokhorov S.A., Suchkova S.A., Matytsin E.V. (2016).<br>
+    <span style="color:gray">
+    Izvestia of Samara Scientific Center of the Russian Academy of Sciences. 18(4-4): 760-765. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b>Computing coefficients of nonorthogonal Meixner filters with GNU Octave</b>.
-Kulikovskikh I.M. (2016).
-<span style="color:gray">
-Journal of Radio Electronics. 6: 8. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>Computing coefficients of nonorthogonal Meixner filters with GNU Octave</b>.<br>
+    Kulikovskikh I.M. (2016).<br>
+    <span style="color:gray">
+    Journal of Radio Electronics. 6: 8. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Clustering diagnostic tests on English prepositions with the Bloom's taxonomy</b>.
-Prokhorov S.A., Suchkova S.A., Kulikovskikh I.M. (2015).
-<span style="color:gray">
-Izvestia of Samara Scientific Center of the Russian Academy of Sciences. 17(2-5): 1097-1103. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Clustering diagnostic tests on English prepositions with the Bloom's taxonomy</b>.<br>
+    Prokhorov S.A., Suchkova S.A., Kulikovskikh I.M. (2015).<br>
+    <span style="color:gray">
+    Izvestia of Samara Scientific Center of the Russian Academy of Sciences. 17(2-5): 1097-1103. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b>Optimality condition for Meixner filters</b>.
-Prokhorov S.A., Suchkova S.A., Kulikovskikh I.M. (2015).
-<span style="color:gray">
-Journal of Radio Electronics. 4: 11. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>Optimality condition for Meixner filters</b>.<br>
+    Prokhorov S.A., Suchkova S.A., Kulikovskikh I.M. (2015).<br>
+    <span style="color:gray">
+    Journal of Radio Electronics. 4: 11. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b>An efficient implementation of the estimates of Fourier coefficients with limited computational resources</b>.
-Prokhorov S.A., Kulikovskikh I.M. (2015).
-<span style="color:gray">
-Software & Systems. 3: 113-118. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>An efficient implementation of the estimates of Fourier coefficients with limited computational resources</b>.<br>
+    Prokhorov S.A., Kulikovskikh I.M. (2015).<br>
+    <span style="color:gray">
+    Software & Systems. 3: 113-118. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b>Building software systems with objects interaction diagram</b>.
-Prokhorov S.A., Kulikovskikh I.M. (2012).
-<span style="color:gray">
-Software & Systems. 3: 5-8. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>Building software systems with objects interaction diagram</b>.<br>
+    Prokhorov S.A., Kulikovskikh I.M. (2012).<br>
+    <span style="color:gray">
+    Software & Systems. 3: 5-8. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b>Numerical-analytical approach to computing integrals at building orthogonal models</b>.
-Prokhorov S.A., Kulikovskikh I.M. (2009).
-<span style="color:gray">
-Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(19): 140-146. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>Numerical-analytical approach to computing integrals at building orthogonal models</b>.<br>
+    Prokhorov S.A., Kulikovskikh I.M. (2009).<br>
+    <span style="color:gray">
+    Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(19): 140-146. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b>Approximating correlation and power spectral density models with Sonin-Laguerre orthogonal functions</b>.
-Prokhorov S.A., Kulikovskikh I.M. (2008).
-<span style="color:gray">
-Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(17): 185-191. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>Approximating correlation and power spectral density models with Sonin-Laguerre orthogonal functions</b>.<br>
+    Prokhorov S.A., Kulikovskikh I.M. (2008).<br>
+    <span style="color:gray">
+    Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(17): 185-191. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b>Frequency characteristics of Sonin-Laguerre orthogonal functions</b>.
-Prokhorov S.A., Kulikovskikh I.M. (2007).
-<span style="color:gray">
-Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(15): 123-127. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b>Frequency characteristics of Sonin-Laguerre orthogonal functions</b>.<br>
+    Prokhorov S.A., Kulikovskikh I.M. (2007).<br>
+    <span style="color:gray">
+    Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(15): 123-127. [in Russian]<br>
 
 <p style="float:left;">
     <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
@@ -451,13 +450,13 @@ Journal of Samara State Technical University. Ser. Physical and Mathematical Sci
 
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
-<b>Painless step size adaptation for SGD</b>.<br>
-Kulikovskikh I., Legović T. (2021). <br>
-<span style="color:gray">
-<a href="https://arxiv.org/abs/2102.00853">[arXiv]</a><br>
+    <b>Painless step size adaptation for SGD</b>.<br>
+    Kulikovskikh I., Legović T. (2021). <br>
+    <span style="color:gray">
+    <a href="https://arxiv.org/abs/2102.00853">[arXiv]</a><br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
-<b>Why to "grow" and "harvest" deep learning models?</b>.<br>
-Kulikovskikh I., Legović T. (2020). <br>
-<span style="color:gray">
-<a href="https://arxiv.org/abs/2008.03501">[arXiv]</a>
+    <b>Why to "grow" and "harvest" deep learning models?</b>.<br>
+    Kulikovskikh I., Legović T. (2020). <br>
+    <span style="color:gray">
+    <a href="https://arxiv.org/abs/2008.03501">[arXiv]</a>
