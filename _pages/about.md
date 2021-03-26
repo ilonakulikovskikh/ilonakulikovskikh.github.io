@@ -59,7 +59,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
 <br>
 </p>
 <!--- & -->  
-*   <span style="color:#494e52, font-size:80%">
+*   <span style="color:#494e52; font-size:80%">
     <b>Painless step size adaptation for SGD</b>.
     Kulikovskikh I., Legović T. (2021). 
     <span style="color:gray">
