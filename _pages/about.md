@@ -177,7 +177,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     <b> Growth and harvest induce essential dynamics in neural networks</b>.<br>
     Kulikovskikh I., Legović T. (2021). <br>
     <span style="color:gray">
-    In: Companion proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2021). ACM. 
+    In: ACM Companion proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2021). July 10-14, 2021. @ Lille
     (accepted)<br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">

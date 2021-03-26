@@ -34,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="218">
-                <caret line="180" column="13" selection-start-line="180" selection-start-column="13" selection-end-line="180" selection-end-column="13" />
+              <first_editor relative-caret-position="196">
+                <caret line="179" column="128" selection-start-line="179" selection-start-column="128" selection-end-line="179" selection-end-column="128" />
               </first_editor>
               <second_editor />
             </state>
@@ -115,8 +115,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
-    <option name="y" value="97" />
+    <option name="x" value="51" />
+    <option name="y" value="520" />
     <option name="width" value="1440" />
     <option name="height" value="825" />
   </component>
@@ -191,7 +191,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="97" width="1440" height="825" extended-state="0" />
+    <frame x="51" y="520" width="1440" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23255815" />
@@ -482,8 +482,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="218">
-            <caret line="180" column="13" selection-start-line="180" selection-start-column="13" selection-end-line="180" selection-end-column="13" />
+          <first_editor relative-caret-position="196">
+            <caret line="179" column="128" selection-start-line="179" selection-start-column="128" selection-end-line="179" selection-end-column="128" />
           </first_editor>
           <second_editor />
         </state>
