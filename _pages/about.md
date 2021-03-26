@@ -224,10 +224,9 @@ This allows for <strong>training on less data</strong> with the right amount of 
 <br>
 </p>
  
-<span style ="font-size:80%; ">
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
-    <b> Neurons in 'active learning' learn less than they think</b>. <br>
+    <b> Neurons in ``active learning'' learn less than they think</b>. <br>
     Kulikovskikh I., Lipić T., Šmuc T. (2020).<br>
     <span style="color:gray">
     5th Workshop on Data Science (IWDS 2020). Nov 24, 2020. Zagreb, Croatia.<br>
@@ -296,45 +295,45 @@ This allows for <strong>training on less data</strong> with the right amount of 
  <br>
  </p>
  
-<span style ="font-size:80%; ">
 <!--- & -->
-<span style="color:#494e52">
-<b> Numerical methods and algorithms for time series analysis with orthogonal decomposition method</b>. 
-Prokhorov S.A, Kulikovskikh I.M. (2019).
-<span style="color:gray">
-Samara: Insoma-press, 2019. 254 p. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Numerical methods and algorithms for time series analysis with orthogonal decomposition method</b>. <br>
+    Prokhorov S.A, Kulikovskikh I.M. (2019).<br>
+    <span style="color:gray">
+    Samara: Insoma-press, 2019. 254 p. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Numerical methods, algorithms, and programs for computational and natural experiments</b>. 
-Prokhorov S.A, Kulikovskikh I.M. (2019).
-<span style="color:gray">
-Samara: Insoma-press, 2019. 208 p. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Numerical methods, algorithms, and programs for computational and natural experiments</b>.<br> 
+    Prokhorov S.A, Kulikovskikh I.M. (2019).<br>
+    <span style="color:gray">
+    Samara: Insoma-press, 2019. 208 p. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Classical orthogonal functions and its applications. Part I. Orthogonal functions of exponential type: 2nd edition</b>. 
-Prokhorov S.A, Kulikovskikh I.M. (2019).
-<span style="color:gray">
-Samara: Insoma-press, 2019. 200 p. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Classical orthogonal functions and its applications. Part I. Orthogonal functions of exponential type: 2nd edition</b>. <br>
+    Prokhorov S.A, Kulikovskikh I.M. (2019).<br>
+    <span style="color:gray">
+    Samara: Insoma-press, 2019. 200 p. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Classical orthogonal functions and its applications. Part I. Orthogonal functions of exponential type</b>. 
-Prokhorov S.A, Kulikovskikh I.M. (2013).
-<span style="color:gray">
-Samara: Insoma-press, 2013. 200 p. [in Russian]<br>
-<a href="https://ilonakulikovskikh.github.io/files/book_kulikovskikh2013.pdf">[book]</a><br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Classical orthogonal functions and its applications. Part I. Orthogonal functions of exponential type</b>. <br>
+    Prokhorov S.A, Kulikovskikh I.M. (2013).<br>
+    <span style="color:gray">
+    Samara: Insoma-press, 2013. 200 p. [in Russian]<br>
+    <a href="https://ilonakulikovskikh.github.io/files/book_kulikovskikh2013.pdf">[book]</a><br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Orthogonal models of correlation and spectral characteristics of stochastic processes</b>. 
-Prokhorov S.A, Kulikovskikh I.M. (2008).
-<span style="color:gray">
-Samara: Samara Branch of Russian Academy of Sciences, 2008. 301 p. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Orthogonal models of correlation and spectral characteristics of stochastic processes</b>. <br>
+    Prokhorov S.A, Kulikovskikh I.M. (2008).<br>
+    <span style="color:gray">
+    Samara: Samara Branch of Russian Academy of Sciences, 2008. 301 p. [in Russian]<br>
 <!--- & -->
-<span style="color:#494e52">
-<b> Algorithms and software implementation for correlation-spectral analysis with Jacobi elliptic functions</b>. 
-Kulikovskikh I.M. (2007).
-<span style="color:gray">
-In Prokhorov S.A. (ed.) Applied analysis of stochastic processes.
-Samara: Samara Scientific Center of the Russian Academy of Sciences, 347-360. [in Russian]<br>
+*   <span style="color:#494e52; font-size:80%">
+    <b> Algorithms and software implementation for correlation-spectral analysis with Jacobi elliptic functions</b>. <br>
+    Kulikovskikh I.M. (2007).<br>
+    <span style="color:gray">
+    In Prokhorov S.A. (ed.) Applied analysis of stochastic processes.
+    Samara: Samara Scientific Center of the Russian Academy of Sciences, 347-360. [in Russian]<br>
+<!--- & -->
 
 <p style="float:left;">
     <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
