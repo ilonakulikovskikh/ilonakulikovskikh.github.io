@@ -227,7 +227,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
  
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
-    <b> Neurons in ``active learning'' learn less than they think</b>. <br>
+    <b> Neurons in active learning learn less than they think</b>. <br>
     Kulikovskikh I., Lipić T., Šmuc T. (2020).<br>
     <span style="color:gray">
     5th Workshop on Data Science (IWDS 2020). Nov 24, 2020. Zagreb, Croatia.<br>
