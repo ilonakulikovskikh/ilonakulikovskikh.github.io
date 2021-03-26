@@ -177,7 +177,8 @@ This allows for <strong>training on less data</strong> with the right amount of 
     <b> Growth and harvest induce essential dynamics in neural networks</b>.<br>
     Kulikovskikh I., Legović T. (2021). <br>
     <span style="color:gray">
-    (submitted)<br>
+    In: Companion proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2021). ACM. 
+    (accepted)<br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b> Growing descent of stochastic gradient with
