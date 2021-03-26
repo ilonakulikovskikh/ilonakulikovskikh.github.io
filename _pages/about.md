@@ -420,7 +420,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     Software & Systems. 3: 5-8. [in Russian]<br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
-    <b>Numerical-analytical approach to computing integrals at building orthogonal models</b>.<br>
+    <b>Numerical-analytical approach to computing integrals in orthogonal models</b>.<br>
     Prokhorov S.A., Kulikovskikh I.M. (2009).<br>
     <span style="color:gray">
     Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(19): 140-146. [in Russian]<br>
