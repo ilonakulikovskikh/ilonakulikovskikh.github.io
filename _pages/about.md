@@ -74,13 +74,13 @@ This allows for <strong>training on less data</strong> with the right amount of 
     Entropy. 22(8): 906.<br>
     <a href="https://www.mdpi.com/1099-4300/22/8/906/htm">[link]</a>
 <!--- & -->
-<span style="color:#494e52">
-<b>An SGD-based meta-learner with "growing" descent</b>.
-Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). 
-<span style="color:gray">
-J. Phys.: Conf. Ser. 1368: 052008.<br>
-<a href="https://iopscience.iop.org/article/10.1088/1742-6596/1368/5/052008">[link]</a>
-<a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf">[pdf]</a><br>
+*   <span style="color:#494e52">
+    <b>An SGD-based meta-learner with "growing" descent</b>.
+    Kulikovskikh I., Prokhorov S., Legović T., Šmuc T. (2019). 
+    <span style="color:gray">
+    J. Phys.: Conf. Ser. 1368: 052008.<br>
+    <a href="https://iopscience.iop.org/article/10.1088/1742-6596/1368/5/052008">[link]</a>
+    <a href="https://ilonakulikovskikh.github.io/files/kulikovskikh2019.pdf">[pdf]</a><br>
 <!--- & -->
 <span style="color:#494e52">
 <b>BioGD: Bio-inspired robust gradient descent</b>.
