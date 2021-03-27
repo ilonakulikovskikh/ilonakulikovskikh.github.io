@@ -194,7 +194,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     Kulikovskikh I.M., Prokhorov S.A. (2018). <br>
     <span style="color:gray">
     In: Proceedings of the 4th Conference on Information Technology and
-    Nanotechnology (ITNT-2019). May 21-24, 2018. Samara, Russia. pp. 2132-2137.<br>
+    Nanotechnology (ITNT-2018). May 21-24, 2018. Samara, Russia. pp. 2132-2137.<br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b> Modifications of log-likelihood to measure floor and ceiling
