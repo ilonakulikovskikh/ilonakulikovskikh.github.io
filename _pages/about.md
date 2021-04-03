@@ -72,7 +72,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     Kulikovskikh I., Lipić T., Šmuc T. (2020). <br>
     <span style="color:gray">
     Entropy. 22(8): 906.<br>
-    <a href="https://www.mdpi.com/1099-4300/22/8/906/htm">[link]</a>
+    <a href="https://www.mdpi.com/1099-4300/22/8/906/htm">[link]</a><br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b>An SGD-based meta-learner with "growing" descent</b>.<br>
