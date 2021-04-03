@@ -13,7 +13,7 @@ redirect_from:
 
 
 <span style ="color:gray; font-size:85%; ">
-Embodied cognition, Cognitive ecology, Dynamic and control systems, Evolutionary computation</span><br><br>
+Embodied cognition, Dynamic and control systems, Evolutionary computation</span><br><br>
 
 <span style ="font-size:85%; ">
 
