@@ -459,7 +459,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     Kulikovskikh I., Legović T. (2021). <br>
     <span style="color:gray">
     <a href="https://arxiv.org/abs/2102.00853">[ArXiv]</a><br>
-    <span style="color:#494e52; font-size:80%">
+    <span style="color:#494e52">
     <b>Step size self-adaptation for SGD</b>.<br>
     Kulikovskikh I., Legović T. (2021). <br>
     <span style="color:gray">
