@@ -222,7 +222,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
  <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b> Classical versus quantum convergence dynamics in energy-based neural networks.</b>. <br>
-    Kulikovskikh I. (2021).<br>
+    Kulikovskikh I., Legović T. (2021).<br>
     <span style="color:gray">
     The Virtual Bristol Quantum Information Technologies Workshop (BQIT:21). Apr 26-28, 2021. Bristol, UK.<br>
 <!--- & -->
