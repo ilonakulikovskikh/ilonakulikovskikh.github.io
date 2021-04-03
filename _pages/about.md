@@ -152,20 +152,13 @@ This allows for <strong>training on less data</strong> with the right amount of 
 <p id="short-spaced" style="line-height: 5%;">
 <br>
 </p>
-
-<span style ="font-size:80%; ">
-<!--- & -->
-*   <span style="color:#494e52; font-size:80%">
-    <b> Neurons learn slower than they think</b>.<br>
-    Kulikovskikh I. (2021). <br>
-    <span style="color:gray">
-    (submitted)<br>
-<!--- & -->
+<!--- & 
 *   <span style="color:#494e52; font-size:80%">
     <b> Stop looking for bio-inspiration. Let machines have their own world</b>.<br>
     Kulikovskikh I., Legović T. (2021). <br>
     <span style="color:gray">
     (submitted)<br>
+-->
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b> Grow slower, converge faster: Towards better convergence dynamics</b>.<br>
@@ -225,6 +218,12 @@ This allows for <strong>training on less data</strong> with the right amount of 
 <br>
 </p>
  
+ <!--- & -->
+*   <span style="color:#494e52; font-size:80%">
+    <b> Classical versus quantum convergence dynamics in energy-based neural networks.</b>. <br>
+    Kulikovskikh I. (2021).<br>
+    <span style="color:gray">
+    The Virtual Bristol Quantum Information Technologies Workshop (BQIT:21). Apr 26-28, 2021. Bristol, UK.<br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b> Neurons in active learning learn less than they think</b>. <br>
@@ -450,13 +449,23 @@ This allows for <strong>training on less data</strong> with the right amount of 
 
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
+    <b> Neurons learn slower than they think</b>.<br>
+    Kulikovskikh I. (2021). <br>
+    <span style="color:gray">
+    (submitted to ArXiv)<br>
+<!--- & -->
+*   <span style="color:#494e52; font-size:80%">
     <b>Painless step size adaptation for SGD</b>.<br>
     Kulikovskikh I., Legović T. (2021). <br>
     <span style="color:gray">
-    <a href="https://arxiv.org/abs/2102.00853">[arXiv]</a><br>
+    <a href="https://arxiv.org/abs/2102.00853">[ArXiv]</a><br>
+    *   <b>Step size self-adaptation for SGD</b>.<br>
+        Kulikovskikh I., Legović T. (2021). <br>
+        <span style="color:gray">
+        (submitted to TechRxiv)<br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b>Why to "grow" and "harvest" deep learning models?</b>.<br>
     Kulikovskikh I., Legović T. (2020). <br>
     <span style="color:gray">
-    <a href="https://arxiv.org/abs/2008.03501">[arXiv]</a>
+    <a href="https://arxiv.org/abs/2008.03501">[ArXiv]</a>
