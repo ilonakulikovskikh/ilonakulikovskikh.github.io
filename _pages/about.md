@@ -58,12 +58,13 @@ This allows for <strong>training on less data</strong> with the right amount of 
 <p id="short-spaced" style="line-height: 5%;">
 <br>
 </p>
-<!--- & -->  
+<!--- & 
 *   <span style="color:#494e52; font-size:80%">
     <b>Painless step size adaptation for SGD</b>.<br>
     Kulikovskikh I., Legović T. (2021). 
     <span style="color:gray">
     (submitted) <br>
+-->  
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b>From knowledge transmission to knowledge construction: A step towards 
