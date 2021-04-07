@@ -209,7 +209,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
 <!--- & -->
  
 <p style="float:left;">
- <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
+ <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 0.0em;"/>
 </p>
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Presentations in English
@@ -286,7 +286,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     8th International Conference on Applied Mathematics and Scientific Computing. Jun 10-14, 2013. Šibenik, Croatia.<br>
 
 <p style="float:left;">
-     <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
+     <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 0.0em;"/>
  </p>
  <div style="font-size:90%; color: #0070bc;">
  &nbsp; Books in Russian
@@ -336,7 +336,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
 <!--- & -->
 
 <p style="float:left;">
-    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 0.0em;"/>
 </p>
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Papers in peer-reviewed journals in Russian
@@ -437,7 +437,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     Journal of Samara State Technical University. Ser. Physical and Mathematical Sciences. 2(15): 123-127. [in Russian]<br>
 
 <p style="float:left;">
-    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 0.0em;"/>
 </p>
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Preprints
@@ -472,7 +472,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     
     
 <p style="float:left;">
-    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: 0.0em;"/>
 </p>
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Interview
