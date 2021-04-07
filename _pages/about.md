@@ -472,6 +472,11 @@ This allows for <strong>training on less data</strong> with the right amount of 
     <span style="color:gray">
     <a href="https://arxiv.org/abs/2008.03501">[ArXiv]</a>
     
+    
+<p style="float:left;">
+    <hr style="float:left; border-bottom: 3px solid #0070bc; width: 10%; clear: none; position: relative; top: -0.5em;"/>
+</p>
+
 <div style="font-size:90%; color: #0070bc;">
 &nbsp; Interview
 </div>
