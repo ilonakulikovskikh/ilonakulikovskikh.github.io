@@ -471,3 +471,17 @@ This allows for <strong>training on less data</strong> with the right amount of 
     Kulikovskikh I., Legović T. (2020). <br>
     <span style="color:gray">
     <a href="https://arxiv.org/abs/2008.03501">[ArXiv]</a>
+    
+<div style="font-size:90%; color: #0070bc;">
+&nbsp; Interview
+</div>
+<p id="short-spaced" style="line-height: 5%;">
+<br>
+</p>
+<!--- & -->
+*   <span style="color:#494e52; font-size:80%">
+    <b> Robots are at the desk: Machines also need to study</b>.<br>
+    Kulikovskikh I. (2019). <br>
+    <span style="color:gray">
+    Interview for the official newspaper of the Russian Academy of Sciences [in Russian]<br>
+    <a href="https://ilonakulikovskikh.github.io/files/POISK_21_20190524.pdf">[cover + p.13]</a><br>
