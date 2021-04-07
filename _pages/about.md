@@ -13,7 +13,7 @@ redirect_from:
 
 
 <span style ="color:gray; font-size:85%; ">
-Embodied cognition, Dynamic and control systems, Evolutionary computation</span><br><br>
+Embodied cognition, Dynamic and control systems, Evolutionary computation, AGI</span><br><br>
 
 <span style ="font-size:85%; ">
 
@@ -453,7 +453,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     <b> Neurons learn slower than they think</b>.<br>
     Kulikovskikh I. (2021). <br>
     <span style="color:gray">
-    (submitted to ArXiv)<br>
+    <a href="https://arxiv.org/abs/2104.02578">[ArXiv]</a><br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b>Painless step size adaptation for SGD</b>.<br>
@@ -464,7 +464,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     <b>Step size self-adaptation for SGD</b>.<br>
     Kulikovskikh I., Legović T. (2021). <br>
     <span style="color:gray">
-    (submitted to TechRxiv)<br>
+    <a href="https://www.techrxiv.org/articles/preprint/Step_size_self-adaptation_for_SGD/14363477">[TechRxiv]</a>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b>Why to "grow" and "harvest" deep learning models?</b>.<br>
