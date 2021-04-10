@@ -485,5 +485,5 @@ This allows for <strong>training on less data</strong> with the right amount of 
     <b> Robots are at the desk: Machines also need to study</b>.<br>
     Kulikovskikh I. (2019). <br>
     <span style="color:gray">
-    Interview for the newspaper POISK [in Russian]<br>
+    Interview for the science community weekly newspaper POISK (POISK is a weekly newspaper for professionals in the field of scientific and educational activity, representatives of science-intensive business and innovative structures) [in Russian]<br>
     <a href="https://ilonakulikovskikh.github.io/files/POISK_21_20190524.pdf">[cover + p.13]</a><br>
