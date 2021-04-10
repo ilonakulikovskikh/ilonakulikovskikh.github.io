@@ -465,7 +465,7 @@ This allows for <strong>training on less data</strong> with the right amount of 
     <a href="https://www.techrxiv.org/articles/preprint/Step_size_self-adaptation_for_SGD/14363477">[TechRxiv]</a>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
-    <b>Why to "grow" and "harvest" deep learning models?</b>.<br>
+    <b>Why to "grow" and "harvest" deep learning models?</b><br>
     Kulikovskikh I., Legović T. (2020). <br>
     <span style="color:gray">
     <a href="https://arxiv.org/abs/2008.03501">[ArXiv]</a>
