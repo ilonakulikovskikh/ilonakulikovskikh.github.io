@@ -486,5 +486,5 @@ This allows for <strong>training on less data</strong> with the right amount of 
     Kulikovskikh I. (2019). <br>
     <span style="color:gray">
     Interview for the science community weekly newspaper POISK [in Russian]<br>
-    <i> POISK is a weekly newspaper for professionals in the field of scientific and educational activity, representatives of science-intensive business and innovative structures<i> <br>
+    <em> POISK is a weekly newspaper for professionals in the field of scientific and educational activity, representatives of science-intensive business and innovative structures</em> <br>
     <a href="https://ilonakulikovskikh.github.io/files/POISK_21_20190524.pdf">[cover + p.13]</a><br>
