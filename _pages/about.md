@@ -152,19 +152,6 @@ This allows for <strong>training on less data</strong> with the right amount of 
 <p id="short-spaced" style="line-height: 5%;">
 <br>
 </p>
-<!--- & 
-*   <span style="color:#494e52; font-size:80%">
-    <b> Stop looking for bio-inspiration. Let machines have their own world</b>.<br>
-    Kulikovskikh I., Legović T. (2021). <br>
-    <span style="color:gray">
-    (submitted)<br>
--->
-<!--- & -->
-*   <span style="color:#494e52; font-size:80%">
-    <b> Grow slower, converge faster: Towards better convergence dynamics</b>.<br>
-    Kulikovskikh I., Legović T. (2021). <br>
-    <span style="color:gray">
-    (submitted)<br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b> Growth and harvest induce essential dynamics in neural networks</b>.<br>
@@ -450,10 +437,23 @@ This allows for <strong>training on less data</strong> with the right amount of 
 
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
+    <b> Stop looking for bio-inspiration. Let machines have their own world</b>.<br>
+    Kulikovskikh I., Legović T. (2021). <br>
+    <span style="color:gray">
+    (working paper)<br>
+<!--- & -->
+*   <span style="color:#494e52; font-size:80%">
+    <b> Grow slower, converge faster: Towards better convergence dynamics</b>.<br>
+    Kulikovskikh I., Legović T. (2021). <br>
+    <span style="color:gray">
+    (working paper)<br>
+<!--- & -->
+*   <span style="color:#494e52; font-size:80%">
     <b> Neurons learn slower than they think</b>.<br>
     Kulikovskikh I. (2021). <br>
     <span style="color:gray">
     <a href="https://arxiv.org/abs/2104.02578">[ArXiv]</a><br>
+    (working paper)<br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b>Painless step size adaptation for SGD</b>.<br>
@@ -465,12 +465,14 @@ This allows for <strong>training on less data</strong> with the right amount of 
     Kulikovskikh I., Legović T. (2021). <br>
     <span style="color:gray">
     <a href="https://www.techrxiv.org/articles/preprint/Step_size_self-adaptation_for_SGD/14363477">[TechRxiv]</a>
+    (working paper)<br>
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b>Why to "grow" and "harvest" deep learning models?</b><br>
     Kulikovskikh I., Legović T. (2020). <br>
     <span style="color:gray">
     <a href="https://arxiv.org/abs/2008.03501">[ArXiv]</a>
+    (working paper)<br>
     
     
 <p style="float:left;">
