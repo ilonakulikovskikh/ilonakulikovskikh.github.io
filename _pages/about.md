@@ -13,7 +13,7 @@ redirect_from:
 
 
 <span style ="color:gray; font-size:85%; ">
-Reverse engineering, Behavioral cloning, AI, Embodied cognition, Machine cognition and communication, Cognitive ecology, Learning dynamics, Dynamic and control systems, Evolutionary computation</span><br><br>
+Behavioral cloning, Reverse engineering, Embodied cognition, Machine cognition and communication, Cognitive ecology, Learning dynamics, Dynamic and control systems, Evolutionary computation</span><br><br>
 
 <span style ="font-size:85%; ">
 
@@ -220,10 +220,12 @@ This allows for <strong>training on less data</strong> with the right amount of 
  
  <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
-    <b> Classical versus quantum convergence dynamics in energy-based neural networks.</b>. <br>
+    <b> Classical versus quantum convergence dynamics in energy-based neural networks.</b> <br>
     Kulikovskikh I., Legović T. (2021).<br>
     <span style="color:gray">
     The Virtual Bristol Quantum Information Technologies Workshop (BQIT:21). Apr 26-28, 2021. Bristol, UK.<br>
+    <a href="https://ilonakulikovskikh.github.io/files/26_BQIT21_Poster.pdf">[pdf]</a>
+
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b> Neurons in active learning learn less than they think</b>. <br>
