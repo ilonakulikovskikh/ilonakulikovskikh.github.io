@@ -13,7 +13,7 @@ redirect_from:
 
 
 <span style ="color:gray; font-size:85%; ">
-Behavioral cloning, Reverse engineering, Embodied cognition, Machine cognition and communication, Cognitive ecology, Learning dynamics, Dynamic and control systems, Evolutionary computation</span><br><br>
+Behavioral cloning, Reverse engineering, Embodied cognition, Machine cognition and communication, Learning dynamics, Dynamic and control systems, Evolutionary computation</span><br><br>
 
 <span style ="font-size:85%; ">
 
