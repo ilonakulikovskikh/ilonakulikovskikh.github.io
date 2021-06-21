@@ -19,8 +19,8 @@ Behavioral cloning, Reverse engineering, Embodied cognition, Machine cognition a
 
 I am working as a Full Professor and a Senior Researcher at the Samara University. The university is the successor of the former Samara State Aerospace University, one of the leading centers of the aerospace industry, which is responsible for the development of space technology including strategic information technologies.<br>
 <br>
-In 2018, I founded the <b>SELF</b> (Tran<b>S</b>parency <b>E</b>xp<b>L</b>ainability Sa<b>F</b>ety) research group,
-where we build explainable and reliable AI systems with the primary focus on identifying, formulating, and solving safety problems. 
+In 2018, I founded the research group,
+where we reverse-engineer AI technologies to build explainable and reliable AI systems with the primary focus on identifying, formulating, and solving safety problems. 
 
 <!---
 I obtained my Ph.D. in Signal Processing, Data Science, and Automation Control from the Faculty of Computer Science at the Samara State Aerospace University in 2011, defending the thesis entitled “Increasing the efficiency of correlation spectral analysis with analytical decomposition method”. The thesis presents novel methods for computationally efficient time series analysis based on the extended orthogonality relations in the Fourier decomposition method.<br>
