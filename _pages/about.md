@@ -19,7 +19,8 @@ Reverse engineering, Behavioral cloning, Embodied cognition, Learning dynamics, 
 
 I am working as a Full Professor and a Senior Researcher at the Samara University. The university is the successor of the former Samara State Aerospace University, one of the leading centers of the aerospace industry, which is responsible for the development of space technology including strategic information technologies.<br>
 <br>
-In 2018, I founded the research group A <span style='color:#0070bc; font-family: Symbola, serif; '>&#8652</span> B,
+In 2018, I founded the research group
+A <span style='font-family: Symbola, serif;'>&#8652</span> B,
 where we reverse-engineer AI technologies to build explainable and reliable AI systems with the primary focus on identifying, formulating, and solving safety and security problems. 
 
 <!---
