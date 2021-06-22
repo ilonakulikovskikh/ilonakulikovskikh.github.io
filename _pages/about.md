@@ -160,6 +160,8 @@ This allows for <strong>training on less data</strong> with the right amount of 
     <span style="color:gray">
     In: ACM Companion proceedings of the Genetic and Evolutionary Computation Conference (GECCO'2021). July 10-14, 2021. @ Lille, France. 
     (accepted)<br>
+    <a href="https://ilonakulikovskikh.github.io/files/gecco_poster.png">[png]</a>
+
 <!--- & -->
 *   <span style="color:#494e52; font-size:80%">
     <b> Growing descent of stochastic gradient with
