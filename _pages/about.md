@@ -21,7 +21,7 @@ I am working as a Full Professor and a Senior Researcher at the Samara Universit
 <br>
 In 2018, I founded the research group
 <b>A<span style='font-family: Symbola, serif;'>&rlhar;</span>B</b>,
-where we reverse-engineer intelligence to build explainable and reliable AI systems with the primary focus on identifying, formulating, and solving safety and security problems. 
+where we reverse-engineer learning mechanisms to build explainable and reliable AI systems with the primary focus on identifying, formulating, and solving safety and security problems. 
 
 <!---
 I obtained my Ph.D. in Signal Processing, Data Science, and Automation Control from the Faculty of Computer Science at the Samara State Aerospace University in 2011, defending the thesis entitled “Increasing the efficiency of correlation spectral analysis with analytical decomposition method”. The thesis presents novel methods for computationally efficient time series analysis based on the extended orthogonality relations in the Fourier decomposition method.<br>
